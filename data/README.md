@@ -30,7 +30,7 @@ layout:
 
 {% embed url="https://video.st.dl.eccdnx.com/store_trailers/257058446/movie480_vp9.webm?t=1727284796" %}
 
-【南赛】战术小队文档致力于服务每一个玩家及用户，并尽可能让用户免费参考所有公开的资料。
+【南赛】战术小队文档秉持开源共享的理念，面向所有玩家及用户提供免费、公开的游戏参考资料。我们坚守公益开放的初心，全力保障所有公开内容均可无限制查阅学习。
 
 战术小队（Squad）是由 Offworld Industries 开发，在 Steam 平台上发售，由 KickStarter 资助的一款**在线、基于团队、以军事为主题的第一人称射击游戏**。
 

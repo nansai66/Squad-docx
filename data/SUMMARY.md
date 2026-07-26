@@ -187,9 +187,7 @@
 
 ## 关于我们 <a href="#my" id="my"></a>
 
+* [参与编写文档](my/contribute/README.md)
+  * [样式组件](my/contribute/component-styles.md)
 * [🤝 特别感谢](my/thank.md)
 * [赞助我们](my/sponsorship.md)
-
-***
-
-* [articl](articl.md)
