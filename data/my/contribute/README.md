@@ -36,3 +36,52 @@ icon: gratipay
 
 > 本页面只提供 Github 网页端贡献力量的教程，如果您觉得效率过低，您可以尝试使用 Git 将仓库克隆至本地修改后提交
 
+### 同步原仓库最新数据
+
+进入你 Fork 后的仓库主页，在文件列表上方找到 **Sync fork** 按钮
+
+1. 点击 **Sync fork**
+
+### 新建独立分支
+
+> 请务必新建独立分支开发，不要直接基于 `main` 分支提交修改。
+>
+> 若直接使用 `main` 提交 PR，容易出现改动纠缠、同步上游代码冲突等问题
+>
+> （会增加维护者审核成本，一般这种 PR 是无法被合并的）
+
+1. 在你的仓库页面，左上角分支下拉框，默认显示 `main`
+2. 在输入框填写分支名（示例：**docs-fix-text**）
+3. 点击：**Create branch: docs-fix-text from main**
+
+<figure><img src="../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
+
+页面会自动切换到你新建的分支
+
+### 找到需要修改的文件进行编辑
+
+1. 在文件列表找到目标文件（比如 README.md 或者 docx 说明文档）
+2. 点开文件，页面右上角 ✏️ **Edit this file（铅笔图标）**，进入网页编辑器
+
+### 修改内容
+
+修改文字、调整文档内容；顶部可以切换「Edit（编辑） / Preview（预览效果）」
+
+我们建议您可以参考 [样式组件](component-styles.md) 以便文档展示的更加好看
+
+### 提交改动
+
+点击 **Commit changes** 绿色按钮即可提交本次改动
+
+* Commit message：这个输入框代表本次修改的大概标题内容
+* Extended description：用于补充本次修改的完整信息。若修改内容包含数据、引用外部资料、调整逻辑依据等内容，请务必在此处写明来源与说明；缺少相关信息的 PR 将不予合并。
+
+✅关键选项：选择 **Create a new branch**（此时分支名已经是你刚刚创建好的 **docs-fix-text**）
+
+❌不要选 **Commit directly to main**！
+
+一切就绪后，继续按下 **Propose changes** 绿色按钮即可
+
+### 发起 Pull Request
+
+在您的仓库页面，
