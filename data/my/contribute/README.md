@@ -38,9 +38,15 @@ icon: gratipay
 
 ### 同步原仓库最新数据
 
-进入你 Fork 后的仓库主页，在文件列表上方找到 **Sync fork** 按钮
+进入你 Fork 后的仓库主页，在文件列表上方找到 **Sync fork** 按钮并点击
 
-1. 点击 **Sync fork**
+如果显示为：**This branch is out-of-date**
+
+则代表当前仓库数据需要同步，继续点击 **Update branch** 即可
+
+<figure><img src="../../.gitbook/assets/QQ_1785260260133.png" alt=""><figcaption></figcaption></figure>
+
+如果显示为：**This branch is not behind the upstream** 则代表无需同步
 
 ### 新建独立分支
 
@@ -67,7 +73,9 @@ icon: gratipay
 
 修改文字、调整文档内容；顶部可以切换「Edit（编辑） / Preview（预览效果）」
 
-我们建议您可以参考 [样式组件](component-styles.md) 以便文档展示的更加好看
+我们建议您可以参考 [样式组件](component-styles.md) 让文档排版更加美观
+
+为保障项目安全，所有修改内容<mark style="color:red;">**禁止嵌入外部链接、外部资源与广告内容**</mark>。如需上传图片，请统一放置至 `data/.gitbook/assets` 目录内。
 
 ### 提交改动
 
@@ -84,4 +92,13 @@ icon: gratipay
 
 ### 发起 Pull Request
 
-在您的仓库页面，
+进入你 Fork 后的仓库主页，在文件列表上方找到 **Contribute** 按钮并点击
+
+继续点击 **Open pull request** 即可
+
+随后您需要填写本次 PR 的内容：
+
+* Add a title：简要概括本次修改内容
+* Add a description：补充改动详情，若涉及数据、外部引用，请注明资料来源。
+
+信息填写完成，确认内容无误后，点击绿色 **Create pull request** 按钮提交 PR，等待维护者审核即可！
