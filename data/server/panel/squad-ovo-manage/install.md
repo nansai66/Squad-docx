@@ -2,10 +2,10 @@
 
 ## 下载
 
-当前稳定发行版本：**V1.5.3**
+当前稳定发行版本：**V1.5.4**
 
-* [SquadLogParser\_windows \_amd64\_V1.5.3.zip](https://pan.nansai.cc/s/jXs2)
-* [SquadLogParser\_linux \_amd64\_V1.5.3.zip](https://pan.nansai.cc/s/PbdUA)
+* [SquadLogParser\_windows \_amd64\_V1.5.4.zip](https://pan.nansai.cc/s/3wxh5)
+* [SquadLogParser\_linux \_amd64\_V1.5.4.zip](https://pan.nansai.cc/s/q00Hk)
 
 ## 安装
 
