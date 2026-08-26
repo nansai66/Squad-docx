@@ -9,9 +9,7 @@ icon: cloud-arrow-up
 想当 Squad 服主？50 元/月起就能拿下入门款专属服务器！[南赛云](https://server.squadovo.cn/)是高性价比开服首选，低价不低质，让您轻松启动专属战局，低成本圆服主梦～
 {% endhint %}
 
-<details>
-
-<summary>2026/6/19 V10.5.1 更新日志</summary>
+## 2026/6/19 V10.5.1 更新日志
 
 各位小队成员大家好！
 
@@ -29,11 +27,7 @@ icon: cloud-arrow-up
 
 若大家在游玩过程中发现其他 BUG，欢迎前往《Squad》官方社区 Discord 持续反馈意见与问题。Offworld 团队敬上！
 
-</details>
-
-<details>
-
-<summary>2026/6/16 V10.5 更新日志 <mark style="color:$danger;"><strong>重大更新</strong></mark></summary>
+## 2026/6/16 V10.5 更新日志 重大更新
 
 各位小队成员大家好！
 
@@ -167,11 +161,7 @@ icon: cloud-arrow-up
 
 Offworld 团队敬上！
 
-</details>
-
-<details>
-
-<summary>2026/5/12 V10.4.1 Hotfix 2 更新日志</summary>
+## 2026/5/12 V10.4.1 Hotfix 2 更新日志
 
 各位小队成员大家好：我们现已推出 10.4.1 版本更新的二号热修复补丁。本次更新同步覆盖客户端与服务器端，用来解决玩家遇到的各类 bug、闪退和其他故障。请**重启游戏客户端**完成更新；服务器端也必须升级至最新版本。
 
@@ -192,11 +182,7 @@ Offworld 团队敬上！
 
 若大家在游玩过程中发现其他 bug，欢迎前往《Squad》官方社区 Discord 持续反馈意见与问题。
 
-</details>
-
-<details>
-
-<summary>2026/5/5 V10.4 Hotfix 1 更新日志</summary>
+## 2026/5/5 V10.4 Hotfix 1 更新日志
 
 各位小队成员大家好：我们现已推出 10.4 版本更新的一号热修复补丁。本次为客户端更新，用于解决玩家遇到的若干闪退问题以及一款武器皮肤 bug，请**重启游戏客户端**完成更新。
 
@@ -215,19 +201,9 @@ Offworld 团队敬上！
 
 若大家在游玩过程中发现其他 bug，欢迎前往《Squad》官方社区 Discord 持续反馈意见与问题。
 
-</details>
+## 2026/5/1 V10.4 更新日志 重大更新
 
-<details>
-
-<summary>2026/5/1 V10.4 更新日志 <mark style="color:$danger;"><strong>重大更新</strong></mark></summary>
-
-
-
-</details>
-
-<details>
-
-<summary>2026/3/4 V10.3.1 更新日志</summary>
+## 2026/3/4 V10.3.1 更新日志
 
 各位玩家们，
 
@@ -243,17 +219,11 @@ Offworld 团队敬上！
 
 我们正在持续监测各款车辆的性能，尤其是明斯克车型是否存在其他操控上的问题。
 
-
-
 请继续在 Squad Discord 中向我们反馈你们的意见以及发现的漏洞。
 
 《Offworld》
 
-</details>
-
-<details>
-
-<summary>2026/2/18 V10.3 更新日志 <mark style="color:$danger;"><strong>重大更新</strong></mark></summary>
+## 2026/2/18 V10.3 更新日志 重大更新
 
 各位玩家大家好，欢迎来到 **10.3 版本更新**！本次版本为大家带来了大量重磅内容！10.3 为**解放军阵营**加入全新内容，包括现代化步兵枪械、标志性载具、全新固定武器以及静态登陆舰。同时上线**首批社区自制地图图层**，并**移除阵营限制**。准备好在从未见过的地图上体验更多阵营对战吧！我们还加入了**载具内手势**、**主基地外可使用表情**等功能，以及一如既往的大量漏洞修复。
 
@@ -561,11 +531,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 * PLA 与 PLAAGF 可互战，但制服相同，敌我识别困难（将在未来版本修复）
 * MINSK 自行车意外参数改动，将在热修复中修正
 
-</details>
-
-<details>
-
-<summary>2026/1/20 V10.2 更新日志 <mark style="color:$danger;"><strong>重大更新</strong></mark></summary>
+## 2026/1/20 V10.2 更新日志 重大更新
 
 各位玩家大家好！欢迎来到 2026 年的《战术小队》！今天我们为大家带来**10.2 版本更新**，本次更新对**火力小队（Fireteam）** 模式进行了多项内容升级，并对游戏整体进行了大量漏洞修复与性能优化。社区设计团队同样带来了多项玩法改动，包括**直升机刷新时间调整**等更多内容。继续阅读了解详情！
 
@@ -735,11 +701,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 10.3 版本即将到来，将带来更多内容与改动，敬请期待！OFFWORLD 出品！
 
-</details>
-
-<details>
-
-<summary>2025/12/5 V10.1 Hotfix 1 更新日志</summary>
+## 2025/12/5 V10.1 Hotfix 1 更新日志
 
 我们已发布10.1版本的热修复补丁1。此更新仅适用于客户端，请重启客户端以获取更新。
 
@@ -747,17 +709,11 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 应用此热修复后，主服务器浏览器可能需要几秒钟时间才能完全加载。不过，这应该能减轻我们在10.1更新中遇到的问题。
 
-</details>
-
-<details>
-
-<summary>2025/12/2 V10.1 更新日志 <mark style="color:red;"><strong>重大更新</strong></mark></summary>
+## 2025/12/2 V10.1 更新日志 重大更新
 
 这是《战术小队》（_Squad_）的特别更新公告。今天，我们将首次推出游戏的 PVE 模式 ——**火力小队**！同时，载具操控性迎来重大调整，乌克兰武装部队（AFU）阵营的多款瞄具也进行了全面更新。各位请通读全文，了解本轮的漏洞修复与地图优化内容。不过首先，我们想先列出几项正在推进的游戏性能优化措施，助力各位获得更流畅的游戏体验。后续还有更多优化计划，敬请期待！
 
 本次更新将于**太平洋标准时间 12 月 3 日周三上午 11 点**正式上线！
-
-
 
 ### 性能优化
 
@@ -765,8 +721,6 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 2. 修复了服务器许可证可被伪造以刷取嘉奖的安全漏洞
 3. 对 “黑海岸” 地图的要塞、潜艇基地、修道院等区域的模型进行实例化处理，进一步完成资源修复与性能优化
 4. 对 “拉什卡尔” 地图修复了世界光照（WPO）禁用失效问题，并完成阴影缓存设置，提升显卡运行效率
-
-
 
 ## Fireteam
 
@@ -809,7 +763,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 4. **费卢杰 / 穆塔哈撤离任务**（支持 5 人）：战机在敌后被击落，小队必须在弹药耗尽、敌方巡逻队合围前，突围抵达友军防线。
 5. **费卢杰 / 穆塔哈 / 纳尔瓦载具猎杀任务**（支持 5 人）：穿越前线深入敌后，对已标记的敌方装甲单位实施袭扰打击。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/1440fe0cbbbb7b603e5ed09ee49e6efa8523f94e.jpg" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/1440fe0cbbbb7b603e5ed09ee49e6efa8523f94e.jpg)
 
 ### 载具操控性调整
 
@@ -818,8 +772,6 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 1. 完成所有轮式与履带式载具的翻车调校：降低载具翻车概率
 2. 缩短载具翻车后的重置倒计时：相较于 10.0 版本最长 20 秒的重置时间，本次更新后最重载具的重置时间上限也仅为 12 秒
 3. 优化履带式载具的越障能力：所有履带式载具均能更轻松地翻越障碍物，大幅降低卡滞概率
-
-
 
 ### 乌克兰武装部队（AFU）阵营更新
 
@@ -839,8 +791,6 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 9. 对自动步枪手 4 号配置的 RPK-74 轻机枪进行调整，换装 TA31 瞄准镜
 10. 对机枪手 2 号配置的 PKM 通用机枪进行调整，换装 TA31 瞄准镜
 
-
-
 ### 系统与游戏玩法更新
 
 #### 服务器浏览器优化
@@ -851,8 +801,6 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 #### 视觉特效优化
 
 降低枪口硝烟 / 火药燃气特效的透明度。目前我们正在解决核心技术问题 —— 特定光照条件下部分透明特效过度遮挡视野的漏洞。在彻底修复该问题前，我们先大幅降低枪口硝烟 / 火药燃气的透明度，避免其遮挡玩家瞄准视野。与此同时，弹着点特效的透明度也同步降低，进一步减少对目标视野的遮挡。
-
-
 
 ### 通用漏洞修复
 
@@ -882,8 +830,6 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 20. 修复 M16A4 步枪的皮肤显示错误：装配下挂式榴弹发射器时，皮肤无法正常显示
 21. 修复步兵教学关卡的 AI 机枪音效缺失问题
 
-
-
 ### 地图更新与漏洞修复
 
 1. **巴士拉**：修复大型信号塔悬浮于地面的模型错误
@@ -894,8 +840,6 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 6. **穆塔哈**：修复玩家可能陷入岩石模型无法脱身的问题
 7. **三仙岛**：修复某扇门被储物架遮挡无法通行的问题
 8. **叶霍里夫卡**：修复挖掘机悬浮于地面的模型错误
-
-
 
 ### 模组开发工具包（SDK）更新
 
@@ -908,11 +852,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 以上就是 10.1 版本的全部更新内容！这也是我们 2025 年的最后一次大型更新（后续若有必要会发布热修复补丁）。2026 年，让我们继续征战《战术小队》！
 
-</details>
-
-<details>
-
-<summary>2025/11/15 V10.0.0 更新日志 </summary>
+## 2025/11/15 V10.0.0 更新日志
 
 各位小队战士们，大家好！我们已发布 10.0 版本的热修复补丁 。
 
@@ -922,11 +862,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 针对显存为 8GB 及以下的设备，优化了游戏过程中的卡顿问题。你可能会遇到部分纹理和细节层次模型（LODS）加载时间延长的情况，最长可能需要一分钟完成加载 —— 但我们认为，这比玩家此前遭遇的 “卡顿” 问题更易接受。我们将持续关注相关情况！
 
-</details>
-
-<details>
-
-<summary>2025/11/11 V10.0 更新日志 <mark style="color:red;"><strong>重大更新</strong></mark></summary>
+## 2025/11/11 V10.0 更新日志 重大更新
 
 我们的10.0版本即将上线——**太平洋标准时间11月12日（周三）上午11点（格林威治标准时间晚上7点）** 正式发布！本次「三叉戟打击」更新将推出乌克兰武装部队（AFU）阵营、漏洞修复、系统与玩法优化、平衡性调整，同时新增武器皮肤礼包、表情动作礼包，并更新商店与自定义界面。
 
@@ -934,7 +870,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 乌克兰武装部队（AFU）是常规蓝方阵营，配备现代化武器与载具，具备与游戏中常规红方及中立阵营对抗的全部能力。其装备融合了乌克兰国产装备与现代化改进的苏制装备。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/389eb6b7454beca0cb78190c4d424d3b8ba3f1c8.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/389eb6b7454beca0cb78190c4d424d3b8ba3f1c8.png)
 
 #### AFU战斗群
 
@@ -942,49 +878,49 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 * 作为AFU的空中突击战斗群，主打高机动性，初始即可调用3架直升机及多款轻型载具。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/852134b012f0d7f2c82ca1bf8936916b594fb0be.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/852134b012f0d7f2c82ca1bf8936916b594fb0be.png)
 
 **第1坦克旅（装甲型）**
 
 * AFU的装甲战斗群，重火力优先于速度，配备履带式载具及2辆主战坦克。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/ca23a46c313f152f74cb76dd83acd23e5c091c65.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/ca23a46c313f152f74cb76dd83acd23e5c091c65.png)
 
 **第11集团军（联合兵种型）**
 
 * AFU的联合兵种战斗群，“样样皆通，无一专精”，适配各类作战场景，但无突出优势领域。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/5c55fc3c378c0e5c19182bbf3cb3264003f7b3bf.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/5c55fc3c378c0e5c19182bbf3cb3264003f7b3bf.png)
 
 **第10山地突击旅（轻型步兵型）**
 
 * AFU的轻型步兵战斗群，专注步兵作战与机动性：可部署AGS-17榴弹发射器工事、5.56mm口径马柳克步枪变体、额外重型反坦克手（HAT）岗位，以及多款防地雷反伏击车（MRAP）与轻型载具。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/7dcaf5a82323b0252f6ed1e62cdd0a398d7c95ba.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/7dcaf5a82323b0252f6ed1e62cdd0a398d7c95ba.png)
 
 **第28机械化旅（机械化型）**
 
 * AFU的机械化战斗群，核心运用履带式载具与步兵战车（IFV），凭借火力与防护将步兵送至敌方近处发起高强度突击。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/6b8278baefb1fd4326c18727a54aee18c43d6422.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/6b8278baefb1fd4326c18727a54aee18c43d6422.png)
 
 **第58摩托化旅（摩托化型）**
 
 * AFU的摩托化战斗群，以轮式载具与步兵战车为核心，借助BTR-4步兵战车实现机械化步兵在战场的快速机动。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/a8c2db90a810dec5249f4751b21edf760c874385.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/a8c2db90a810dec5249f4751b21edf760c874385.png)
 
 **第148炮兵团（支援型）**
 
 * AFU的支援战斗群，专注前沿作战基地（FOB）建设：配备额外后勤车辆、工事，以及BM-21“冰雹”多管火箭炮系统。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/58b15e0f44217a9e1ed51289e5d7ea6e1024d33a.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/58b15e0f44217a9e1ed51289e5d7ea6e1024d33a.png)
 
 **第35海军陆战队旅（两栖突击型）**
 
 * AFU的两栖突击战斗群，仅在特定两栖突击入侵层级开放，主打两栖载具与压倒性火力。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/14cd4249857c2473516e35c3dc19083ff8d7eda0.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/14cd4249857c2473516e35c3dc19083ff8d7eda0.png)
 
 #### AFU载具
 
@@ -993,63 +929,63 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 * 3种变体：后勤型、运输型、BM-21“冰雹”火箭炮型
 * 乌克兰产坚固多用途军用卡车，是战场后勤与机动性的核心支柱。在《Squad》中承担多重关键角色：运送步兵至前线、为前沿基地输送建筑材料与弹药补给，同时作为威力强大的BM-21火箭炮系统的底盘。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/d3b1465dccffbfbcaa70406ffc6374762aedc641.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/d3b1465dccffbfbcaa70406ffc6374762aedc641.png)
 
 **科扎克-2M1（Kozak-2M1）敞篷装甲车**
 
 * 2种变体：NSV重机枪型、AGS-17自动榴弹发射器型
 * 乌克兰产防地雷反伏击车（MRAP），专为巡逻、车队护航及复杂地形下的人员运输设计，可搭载9名士兵。在游戏中是机动装甲增援单位——既能将小队安全送至目标点，又能通过车载武器提供即时压制火力与轻型火力支援。两种战斗变体分别为：12.7mm NSV重机枪型（适用于远程压制与轻型反器材任务）、AGS-17自动榴弹发射器型（适用于区域压制与清除掩体后的目标）。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/7fb8bfda2d2fef79cd7729a79c5af3eb62ef8237.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/7fb8bfda2d2fef79cd7729a79c5af3eb62ef8237.png)
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/69891a04e1d8ecfecc09782783f8be0daa9817b6.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/69891a04e1d8ecfecc09782783f8be0daa9817b6.png)
 
 **BMP-1TS履带式步兵战车**
 
 * 基于经典BMP-1底盘现代化改进的步兵战车，提升了战场适用性。游戏中作为快速两栖步兵战车，可搭载下车步兵投入战斗，同时通过炮塔火炮与反坦克发射器提供直接火力支援。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/c2789f8912f69424fb432f1cdbdcd0626c4884d6.jpg" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/c2789f8912f69424fb432f1cdbdcd0626c4884d6.jpg)
 
 **BTR-4轮式步兵战车**
 
 * 乌克兰现代轮式步兵战车，专为联合兵种作战中的机动性、防护性与火力支援设计。游戏中是高速、可在公路行驶的步兵战车，能搭载完整步兵小队，通过炮塔30mm自动炮、同轴机枪提供持续压制火力，并可凭借制导反坦克导弹打击轻型装甲目标。
 * 注：这是《Squad》首款为所有乘员与乘客配备完整内饰模型的步兵战车。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/23e13e27dccfcb5342fa5fcf35e2b931e7c10b48.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/23e13e27dccfcb5342fa5fcf35e2b931e7c10b48.png)
 
 **T-64BM2“布拉特”（Bulat）主战坦克**
 
 * 乌克兰现代化改进的主战坦克，在经典T-64平台基础上升级了火控系统、反应装甲，并搭载威力强大的125mm滑膛炮。游戏中作为装甲突击的重型先锋——可承受敌方火力、突破防御工事，为推进中的步兵提供决定性直接火力支援。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/1817d1005149bf3d5f18f3d5d3d315696285fb04.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/1817d1005149bf3d5f18f3d5d3d315696285fb04.png)
 
 **BRDM-2M1封闭式装甲车**
 
 * 乌克兰国产改进型侦察车（基于著名BRDM-2平台）。AFU变体的车体略有调整（舱门位置不同），移除了标志性的底部辅助轮，因此新增了部分内饰座位：1名驾驶员、1名炮手，最多可搭载6名乘客。
 * 注：该载具配备完整内饰模型。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/a2728db3eec022ecf4d2bd569e8d8e0255821168.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/a2728db3eec022ecf4d2bd569e8d8e0255821168.png)
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/2b7918e38ad77ea594ee7469083e1ffefde07fd3.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/2b7918e38ad77ea594ee7469083e1ffefde07fd3.png)
 
 **MTLB履带式装甲运兵车**
 
 * 2种变体：后勤型、PKT机枪型
 * 经典载具，配备AFU专属迷彩图案。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/f634efbaf5e5d85fef2979c56cff8ea529f59f99.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/f634efbaf5e5d85fef2979c56cff8ea529f59f99.png)
 
 **BMP-1履带式步兵战车**
 
 * 经典载具，配备AFU专属迷彩图案。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/0171073d30db2ff45a25f1cc2466177b30bc4790.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/0171073d30db2ff45a25f1cc2466177b30bc4790.png)
 
 **BMP-2履带式步兵战车**
 
 * 经典载具，配备AFU专属迷彩图案。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/fef00a926e1e15866d9c502bfaf210071351f7b2.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/fef00a926e1e15866d9c502bfaf210071351f7b2.png)
 
 **米-8MTV-5（Mi-8MTV-5）运输直升机**
 
@@ -1063,14 +999,14 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
   1. 通过类似大型笔记本电脑的操控单元（CU）进行遥控操作：士兵可拿起操控单元，在发射器30米范围内部署，随后在掩体后遥控操作发射器；
   2. 任何士兵均可通过与发射器交互进行装填，操控单元操作员无需移动，队友即可协助完成装填。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/752e3859f9193883f88e55538b6458db6f9bf8a7.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/752e3859f9193883f88e55538b6458db6f9bf8a7.png)
 
 **AGS-17自动榴弹发射器（AGL）工事**
 
 * 苏制重型自动榴弹发射器工事，性能媲美西方同类装备MK19自动榴弹发射器。可在前沿作战基地（FOB）部署，提供机械瞄具或瞄准镜版本，以及低姿态三脚架或碉堡变体。
 * 适用阵营：AFU轻型步兵、空中突击与支援战斗群；IMF、MEI、GFI、RGF、VDV轻型步兵与空中突击战斗群。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/7b768c1065679f5043abc96ba37caa576b081623.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/7b768c1065679f5043abc96ba37caa576b081623.png)
 
 #### AFU武器
 
@@ -1079,44 +1015,44 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 * 经典5.45mm步枪平台，为10.0版本完全重制，包含多款瞄具变体。
 * 注：计划在后续更新中新增更多瞄具选项——详见公告末尾！
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/39135de57c97dfd4fecddd701cefdd71b08910eb.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/39135de57c97dfd4fecddd701cefdd71b08910eb.png)
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/d78fe74d34c77ba70dbf649ff65d94df34f501cf.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/d78fe74d34c77ba70dbf649ff65d94df34f501cf.png)
 
 **马柳克（Malyuk）步枪**
 
 * 乌克兰现代无托突击步枪，基于AK平台自主研发。设计紧凑、可靠性高、外形独特，在不牺牲火力的前提下，将经典卡拉什尼科夫设计重构为更短小、更灵活的武器。
 * 游戏中提供多口径版本：5.45×39mm、7.62×39mm、5.56×45mm北约口径，为AFU提供适用于各类作战角色与场景的多用途主武器。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/e7738a0028e78eb42924e1b275ac1cf4ec0db1e7.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/e7738a0028e78eb42924e1b275ac1cf4ec0db1e7.png)
 
 **RPK-74轻机枪**
 
 * 苏制5.45mm轻机枪，为10.0版本完全重制。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/6f3b631a698934560f2cd942517ce7dfc600728f.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/6f3b631a698934560f2cd942517ce7dfc600728f.png)
 
 **RPK轻机枪**
 
 * 苏制7.62mm轻机枪，为10.0版本完全重制，包含45发弹匣与弹鼓变体。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/c47e5e94e6423822149d4f392eb9e6ace7005511.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/c47e5e94e6423822149d4f392eb9e6ace7005511.png)
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/2d6ce61bea278f213e32da791f3ff3f949f4ba6d.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/2d6ce61bea278f213e32da791f3ff3f949f4ba6d.png)
 
 **SVD精确射手步枪**
 
 * 苏制精确射手步枪，为10.0版本完全重制，包含升级后的PSO-1瞄准镜模型。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/f0e9c677e4c3b2c69a415cae04170c8fd38de015.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/f0e9c677e4c3b2c69a415cae04170c8fd38de015.png)
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/c62fcd9c6c60d1538c472ab5e88f3a2467414764.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/c62fcd9c6c60d1538c472ab5e88f3a2467414764.png)
 
 **兹布罗亚尔UAR-10（Zbroyar UAR-10）精确射手步枪**
 
 * 乌克兰研发的精准战斗步枪，发射7.62×51mm北约弹药。设计注重精度与可靠性，作为精确射手武器，填补了标准步兵步枪与狙击系统之间的空白。游戏中为AFU提供远程精确火力，是一款现代化精确射手平台，与马柳克步枪的近中程机动性形成互补。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/57ee37d36f41f989dc6326479fbf1b2b7b8710c5.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/57ee37d36f41f989dc6326479fbf1b2b7b8710c5.png)
 
 **PKM通用机枪**
 
@@ -1126,15 +1062,15 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 * 苏制反坦克武器平台，为10.0版本完全重制。包含升级后的UP7V机械瞄具变体（可对串联战斗部弹药进行最远500米测距），以及PGO-1瞄准镜变体。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/7e4f0c560e26b04b7d8e9969dee99defe1976977.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/7e4f0c560e26b04b7d8e9969dee99defe1976977.png)
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/8ef0ab29e9480010aa3e2374ba6c022729f9d0d2.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/8ef0ab29e9480010aa3e2374ba6c022729f9d0d2.png)
 
 **C90-CR轻型反坦克武器**
 
 * 轻型一次性反坦克发射器，为步兵提供快速、高便携性的反载具与反工事手段。肩扛式设计、操作简单，非常适合打了就跑的小队——无需重型反坦克系统的后勤支持，即可实现一击制敌。
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/eb9cf64f16257a9b100af98c3a1eaa7a2c5003d1.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/eb9cf64f16257a9b100af98c3a1eaa7a2c5003d1.png)
 
 **NLAW重型反坦克武器**
 
@@ -1153,13 +1089,13 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 现在你可以预览和检视任意阵营的任意武器：
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/c253b9a36238fae64867fe7f999b2bfee3e8ba0d.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/c253b9a36238fae64867fe7f999b2bfee3e8ba0d.png)
 
 同时优化了训练界面的视觉效果：
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/7dec787c84a30bc914cc412fcb6b991bca03bc06.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/7dec787c84a30bc914cc412fcb6b991bca03bc06.png)
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/1d7d0bf46ba712f4b7a03a58c1eb33e67d05c743.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/1d7d0bf46ba712f4b7a03a58c1eb33e67d05c743.png)
 
 ### 系统与玩法更新
 
@@ -1263,13 +1199,13 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 * 新增AFU AK-74与AKS-74步枪专属皮肤，已自动添加至你的军械库：
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/d8fb32addfb1affaa8a96d2274be491e5081c403.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/d8fb32addfb1affaa8a96d2274be491e5081c403.png)
 
 #### 科布扎尔（Kobzar）礼包（14.99美元）
 
 * 包含8款AFU阵营专属外观道具（适用于林地地图）：
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/ccfca19eaae671ad24dd40754eb412028f7f2a97.png" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/ccfca19eaae671ad24dd40754eb412028f7f2a97.png)
 
 1. 前哨（Outpost）——AK-74与AKS-74步枪皮肤；
 2. 栖木（Perch）——马柳克步枪皮肤；
@@ -1286,7 +1222,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 * 包含3个表情（Emote）与2个手势（Gesture），让你在主基地的时光更具乐趣：
 
-<figure><img src="https://clan.fastly.steamstatic.com/images/10141695/44adfb4036426b2139aadc3db3fe1e0b8f0480cd.jpg" alt=""><figcaption></figcaption></figure>
+![](https://clan.fastly.steamstatic.com/images/10141695/44adfb4036426b2139aadc3db3fe1e0b8f0480cd.jpg)
 
 1. 影子拳击（Shadow Boxing）——表情；
 2. 碎砖（Brick Breaker）——表情；
@@ -1313,61 +1249,31 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 * 支持投票（Voting Compatible）、兼容原版循环（Vanilla Rotation Compatible）、可自定义设置（Customizable Settings）、插件（Plugin）
 
-</details>
-
-<details>
-
-<summary>2025/10/22 V9.0.4b 更新日志</summary>
+## 2025/10/22 V9.0.4b 更新日志
 
 各位小队战士们，大家好！
-
-
 
 本次 9.0.4b 热更新对武器枪口烟雾视觉效果 (VFX) 进行了进一步调整，全面降低了枪口烟雾的不透明度。我们想感谢社区成员帮助我们识别一些潜在问题。
 
-
-
 虽然目前尚未对弹着效果和烟雾手榴弹进行任何更改，但我们将继续调查这些问题。
-
-
 
 我们将密切监控这些枪口烟雾 VFX 更改的影响，请继续在 Discord 上提供反馈。
 
-
-
 感谢大家的耐心等待。
 
-</details>
-
-<details>
-
-<summary>2025/10/18 V9.0.4 更新日志</summary>
+## 2025/10/18 V9.0.4 更新日志
 
 各位小队战士们，大家好！
 
-
-
 本次热更新对武器的枪口烟雾视觉效果（VFX）进行了调整：我们减少了烟雾上出现的反射效果 —— 此前这种反射导致烟雾的不透明度远超我们的初始设计。本次调整将根据大家的反馈，持续优化完善。
-
-
 
 我们也注意到，这些烟雾视觉效果还影响了 Squad 的其他内容，包括投掷烟雾弹和地形烟雾。我们正着手解决这些问题，但目前尚未确定具体解决时限。
 
-
-
 载具操控性与物理效果同样是我们的核心优先级任务。该系统极为复杂，需要一定时间进行重构与调整，以确保带来切实有效的真实体验。我们正在开发一系列补丁，将尽快以分阶段的方式对载具进行调整，后续会向社区同步更多相关进展！
-
-
 
 感谢大家的耐心等待。
 
-</details>
-
-<details>
-
-<summary>2025/9/25 V9.0.3 更新日志</summary>
-
-
+## 2025/9/25 V9.0.3 更新日志
 
 各位小队战士们，大家好！今天为大家带来 9.0.3 版本热更新，已于今日上午推送上线。
 
@@ -1409,11 +1315,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 * 9.0.3 版本模组 SDK 现已在「公开测试分支（Public Testing Branch）」上线
 * 注意：下周我们将对最新版虚幻引擎 4（UE4）模组 SDK 进行归档并停用，请务必备份相关文件！
 
-</details>
-
-<details>
-
-<summary>2025/9/12 V9.0.2 version-2 更新日志</summary>
+## 2025/9/12 V9.0.2 version-2 更新日志
 
 今天为大家带来又一次小型热修复。此次修复**仅针对客户端**，服务器不会受到任何影响！
 
@@ -1422,14 +1324,9 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 * 修复了地图传送时，世界图标子系统出现的崩溃问题
 * 修复了常规游戏过程中，世界图标子系统出现的崩溃问题
 
-
 就这样啦！战场上见！
 
-</details>
-
-<details>
-
-<summary>2025/9/11 V9.0.2 更新日志</summary>
+## 2025/9/11 V9.0.2 更新日志
 
 今天为大家带来 9.0.2 热修复补丁的简短更新说明。
 
@@ -1450,14 +1347,9 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 * RAAS v2 模式 - 修复了快速反应部队（CRF）无法调用的问题。
 
-
 战场上见！
 
-</details>
-
-<details>
-
-<summary>2025/9/6 V9.0.1 更新日志</summary>
+## 2025/9/6 V9.0.1 更新日志
 
 今日我们已发布《战术小队》（Squad）9.0.1 热修复补丁。以下是本次修复的问题。我们已知目前仍存在其他问题，并将继续努力，尽快解决这些问题。
 
@@ -1523,14 +1415,9 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 * 画中画（PiP）瞄准镜缺少 tint 着色效
 
-</details>
-
-<details>
-
-<summary>2025/9/5 V9.0 更新日志 <mark style="color:red;"><strong>重大更新</strong></mark></summary>
+## 2025/9/5 V9.0 更新日志 重大更新
 
 各位小队成员，大家好！
-
 
 许久不见，今天我们为大家带来《战术小队》9.0 版本更新日志 —— 本次更新将游戏引擎迁移至虚幻引擎 5。我们着手此项工作已历时许久，在此要向每一位参与测试的玩家表示感谢。没有大家的支持，我们无法完成这项任务。同时，特别感谢期间提供服务器空间与硬件支持的社区服务器所有者们。话不多说，让我们直接进入正题！
 
@@ -1542,7 +1429,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 ### 巴士拉地图重制
 
 我们很高兴在 9.0 版本中推出全新设计的 “巴士拉”（Al-Basrah）地图。这是我们基于虚幻引擎 5 从零开始打造的首张新地图，团队在探索最新引擎的渲染技术与世界构建工具过程中，也积累了宝贵经验。这张新地图是对经典《真实行动》（Project Reality）与《战术小队》原版巴士拉地图的重新诠释，不仅扩大了可玩区域，还提升了整座城市的场景密度与视觉保真度。机场区域已全面翻新，多个其他区域也得到了亟需的更新优化。
-9.0 版本中包含的巴士拉地图游戏模式层级如下：<br>
+9.0 版本中包含的巴士拉地图游戏模式层级如下：
 
 * AAS（进攻与占领模式）v1
 * AAS（进攻与占领模式）v2
@@ -1586,12 +1473,11 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 8. 玩家在不同职业或特殊表彰类别中积累表彰，即可提升对应类别的等级。默认情况下，玩家的职业等级会显示在职业图标旁；玩家也可选择显示特殊表彰等级，以替代职业等级。
 9. 游戏内设有 “生涯” 界面，玩家可在其中查看各表彰等级的进度；同时可在该界面选择是否显示特殊表彰等级。目前估算，表彰等级的满级进度周期较长（约 2 年），我们十分期待看到玩家们长期使用这一系统的表现。
 
-
 此外，我们还为多个阵营新增了职业，确保玩家可获得表彰的职业类型能覆盖更多阵营。
 
 ### 非正规民兵（IMF）更新
 
-我们对 “非正规民兵” 阵营进行了以下调整：<br>
+我们对 “非正规民兵” 阵营进行了以下调整：
 
 1. 职业配置大幅调整（类似 8.2 版本对 “中东叛乱分子” 的调整），此次更新是分阶段推进的一部分，旨在让非正规民兵更贴近 “俄罗斯代理民兵” 的设定。
    * 小队领袖 01 - AK-74 步枪
@@ -1637,7 +1523,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 ### 伊朗地面部队（GFI）
 
-“中东联盟”（MEA）已更名为 “伊朗地面部队”（GFI），此次调整还包括职业全面翻新：<br>
+“中东联盟”（MEA）已更名为 “伊朗地面部队”（GFI），此次调整还包括职业全面翻新：
 
 * 角色、载具与 2D 纹理均已更新
 * 伊朗地面部队的 “第 64 步兵师（轻型步兵）战斗群” 可使用 M1151 装甲车（该装甲车为在边境冲突中从阿富汗部队缴获）
@@ -1646,7 +1532,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 ### 加拿大抵抗军（CRF）
 
-这是一支全新的小型阵营，代表北美生物群落中的非正规独立武装，目前仅在 “古斯湾”（Goose Bay）与 “马尼夸根”（Manicouagan）地图层级中可用：<br>
+这是一支全新的小型阵营，代表北美生物群落中的非正规独立武装，目前仅在 “古斯湾”（Goose Bay）与 “马尼夸根”（Manicouagan）地图层级中可用：
 
 * 装备混合了民用与缴获的军用装备
 * **新增武器**：
@@ -1678,7 +1564,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 #### 英国武装部队（BAF）
 
-⭐ **新增 “空降侦察兵”（Pathfinder）职业**：<br>
+⭐ **新增 “空降侦察兵”（Pathfinder）职业**：
 
 * 英国空军突击部队（第 2 伞兵营）：配备 L119A1 步枪（英国军方对 C8A3 步枪的编号） + ET552 瞄准镜 + 前握把、L131A1 手枪、3 枚手榴弹
 * 空降侦察兵属于突袭手类型，类似土耳其陆军的 “宪兵”（Jandarma）职业，主打近距离作战，可使用全自动武器、手枪，且手榴弹数量多于团队其他职业。投票界面会显示 “特殊特性” 文本，标明该战斗群是否可使用空降侦察兵职业。该职业同样可在英国武装部队 “詹森靶场训练区” 地图中使用。
@@ -1688,7 +1574,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 #### 加拿大武装部队（CAF）
 
-⭐ **新增 “空降侦察兵”（Pathfinder）职业**：<br>
+⭐ **新增 “空降侦察兵”（Pathfinder）职业**：
 
 * 加拿大空军突击部队（第 3 皇家加拿大步兵团）：配备 C8A3 步枪 + ET552 瞄准镜 + 前握把、Hi Power 手枪、3 枚手榴弹
 * 多个职业重新加入配备机械瞄具的步枪版本
@@ -1742,7 +1628,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 #### 美国陆军（USA）
 
-⭐ **新增 “空降侦察兵”（Pathfinder）职业**：<br>
+⭐ **新增 “空降侦察兵”（Pathfinder）职业**：
 
 * 美国空军突击部队（第 82 空降师）与美国轻型步兵（第 10 山地师）：配备 M4A1 步枪 + M68 瞄准镜 + 前握把、M17 手枪、3 枚手榴弹
 
@@ -1783,14 +1669,14 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 ### 虚幻引擎 5 载具升级
 
-随着载具物理系统从虚幻引擎 4 的 PhysX 升级至虚幻引擎 5 的混沌物理，我们还调整了多款载具的最高速度与加速度，使其更接近现实中的性能参数（包括最高速度、加速度与传动比）。例如，美国陆军 M2A3 步兵战车的最高速度现在约为 65 公里 / 小时，略低于美国陆军 M1A2 主战坦克（约 70 公里 / 小时）。这一变化在游戏中会明显体现，尤其是大型重型载具，达到最高速度所需的时间更长。需注意：尽管载具参数参考现实配置，但为平衡 gameplay，部分参数存在例外（如 T-72/T-90 主战坦克的倒车速度）。<br>
+随着载具物理系统从虚幻引擎 4 的 PhysX 升级至虚幻引擎 5 的混沌物理，我们还调整了多款载具的最高速度与加速度，使其更接近现实中的性能参数（包括最高速度、加速度与传动比）。例如，美国陆军 M2A3 步兵战车的最高速度现在约为 65 公里 / 小时，略低于美国陆军 M1A2 主战坦克（约 70 公里 / 小时）。这一变化在游戏中会明显体现，尤其是大型重型载具，达到最高速度所需的时间更长。需注意：尽管载具参数参考现实配置，但为平衡 gameplay，部分参数存在例外（如 T-72/T-90 主战坦克的倒车速度）。
 
 * **履带式载具**：迁移至混沌物理系统后，牵引力与障碍通过性显著提升。虚幻引擎 5 中履带的碰撞检测更精准，使载具在复杂地形与障碍物中机动时，履带能获得更稳定的扭矩。
 * **轮式载具**：公路速度优势更明显，但越野速度降低，让履带式载具在越野地形中拥有更显著的速度优势。
 
 ### 小规模冲突模式（Skirmish）更新
 
-小规模冲突模式不再是 “进攻与占领模式（AAS）” 的缩小版，而是继续聚焦 “高强度、小范围” 的 50v50 体验，目标时长为 20-30 分钟。<br>
+小规模冲突模式不再是 “进攻与占领模式（AAS）” 的缩小版，而是继续聚焦 “高强度、小范围” 的 50v50 体验，目标时长为 20-30 分钟。
 
 * 每支队伍拥有 1 个 “核心” 占领点；核心点被占领后，后续 5 个占领点可按任意顺序占领（类似 “征服模式”）。
 * 控制多数占领点的队伍将导致敌方队伍 “票数流失”（ticket bleed），控制的占领点越多，敌方票数流失速度越快。
@@ -1800,7 +1686,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 ### 鱿鱼机器人（Squid Bots）更新
 
-以下是鱿鱼机器人（Squid Bots）的更新内容：<br>
+以下是鱿鱼机器人（Squid Bots）的更新内容：
 
 * 鱿鱼机器人现在可绕过动态物体（包括可部署设施与载具残骸）。
 * 鱿鱼机器人现在可进入载具。
@@ -1839,7 +1725,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 #### 全新 “叛乱分子包”（Insurgent Pack）
 
-包含 4 款 “中东叛乱分子” 阵营的装饰性武器皮肤，适用于所有生物群落：<br>
+包含 4 款 “中东叛乱分子” 阵营的装饰性武器皮肤，适用于所有生物群落：
 
 * “哈比比”（Habibi）：适用于 AKM、AKMS、PM md.63 突击步枪
 * “抵抗者”（Resistance）：适用于 AMD-65 突击步枪
@@ -1848,7 +1734,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 #### 全新 “二次部署包”（Second Tour Pack）
 
-包含美国陆军（USA）与美国海军陆战队（USMC）阵营的装饰性武器皮肤。其中 “临时改装”（Field Mod）皮肤为 “胶带简易改装” 风格，可应用于以下武器：<br>
+包含美国陆军（USA）与美国海军陆战队（USMC）阵营的装饰性武器皮肤。其中 “临时改装”（Field Mod）皮肤为 “胶带简易改装” 风格，可应用于以下武器：
 
 * M4A1 步枪与 M4 卡宾枪（美国陆军、美国海军陆战队）
 * M16A4 突击步枪（美国海军陆战队）
@@ -1858,19 +1744,18 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 * M17 手枪（美国陆军、美国海军陆战队）
 * M9 手枪（美国海军陆战队）
 
-
 上述皮肤可在主菜单的 “自定义” 界面中装备。
 
 ### 新增免费表情：“休整”（Downtime）
 
-我们新增了免费表情 “休整”，供玩家在主基地休整时使用，该表情将自动添加至玩家的表情库。<br>
+我们新增了免费表情 “休整”，供玩家在主基地休整时使用，该表情将自动添加至玩家的表情库。
 
 * 装备主武器（步枪、轻机枪）或手枪时，可使用该表情。
 * 表情动画会根据当前装备的武器自动切换。
 
 ### 武器皮肤适用范围扩展
 
-部分现有皮肤包的皮肤现已支持新阵营与更新后的阵营：<br>
+部分现有皮肤包的皮肤现已支持新阵营与更新后的阵营：
 
 * **非正规民兵（IMF）** 可使用 “冲突包”（Clash）与 “林地包”（Woodland）中的以下皮肤：
   * “荨麻”（Nettle）：适用于 AK-12 步枪
@@ -1889,7 +1774,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 ### 系统与玩法更新
 
-⭐ = 需重点告知全体玩家 🛠️ = 需重点告知模组制作者或服务器所有者<br>
+⭐ = 需重点告知全体玩家 🛠️ = 需重点告知模组制作者或服务器所有者
 
 * ⭐ **画中画瞄准镜（Picture in Picture Scopes）重构**：瞄准镜画面现在直接渲染至玩家屏幕，提升保真度与清晰度（尤其是开启分辨率缩放时）。此次调整移除了设置菜单中的 “优先清晰度 / 优先抗锯齿” 选项，确保瞄准镜始终以全清晰分辨率渲染。
 * ⭐ **修复 “腰射（Point-Shooting）行为依赖帧率” 的问题**：
@@ -2073,7 +1958,7 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 
 ### 已知问题
 
-以下是开发团队已发现且正在修复的漏洞。我们计划在 9.0 版本发布后推出 9.0.1 热修复补丁，解决部分问题及后续发现的紧急漏洞：<br>
+以下是开发团队已发现且正在修复的漏洞。我们计划在 9.0 版本发布后推出 9.0.1 热修复补丁，解决部分问题及后续发现的紧急漏洞：
 
 1. “工兵”（Sapper）与 “工程师”（Engineer）职业目前被错误地分为两个独立表彰类别，近期将合并为 “工程师” 职业类别。
 2. 加拿大抵抗军（CRF）“步枪手 02” 职业在部署界面中 “衬衫纹理异常”。
@@ -2104,26 +1989,17 @@ SQGameModeEntry 蓝图结构改动，使用自定义游戏模式的数据表的 
 27. 可 “一次性发射多发反坦克导弹” 的载具（如 “拱肩” 反坦克导弹车、ZBL08 步兵战车）“仅在全部导弹发射完毕后才能补给反坦克导弹”。
 28. 中文与法语本地化中 “表彰等级文本显示错误”。
 
-
 本列表可能在更新日志首次发布后补充更新，新增内容将标注 “（新增）”。感谢大家耐心等待我们精心打造此次《战术小队》更新。期待在战场上与各位相见！
 OFFWORLD，待命完毕！
 
-</details>
-
-<details>
-
-<summary>2025/7/10 V8.2.3 更新日志</summary>
+## 2025/7/10 V8.2.3 更新日志
 
 此次更新是一个修复程序，面向服务端和客户端
 
 * 修复了服务器列表PING问题（该问题导致服务器看起来PING值为9999！）
 * 修复了美国陆军"第1骑兵团"在游戏中载具列表显示不正常的问题
 
-</details>
-
-<details>
-
-<summary>2025/6/25 V8.2.2 更新日志</summary>
+## 2025/6/25 V8.2.2 更新日志
 
 各位队员请注意！
 
@@ -2131,11 +2007,7 @@ OFFWORLD，待命完毕！
 
 以上为今日全部内容！未来几周请持续关注虚幻引擎 5（UE5）版本发布的更多消息！
 
-</details>
-
-<details>
-
-<summary>2024/12/5 V8.2.1 更新日志</summary>
+## 2024/12/5 V8.2.1 更新日志
 
 8.2.1 热修复补丁针对 8.2 版本发布后出现的一些问题进行了多项修复。感谢反馈这些问题的人员！
 
@@ -2145,11 +2017,7 @@ OFFWORLD，待命完毕！
 * 修正了所有使用 M27 IAR 的非自动步枪手角色弹匣数量为 12 个而非 7 个的问题。
 * 修复了美国海军陆战队（[USMC](team/usmc.md)）M39 EMR 精确射手步枪在高倍放大时瞄准镜十字线过于模糊的问题。
 
-</details>
-
-<details>
-
-<summary>2024/12/3 V8.2 更新日志 <mark style="color:red;"><strong>重大更新</strong></mark></summary>
+## 2024/12/3 V8.2 更新日志 重大更新
 
 #### 欢迎各位队员查看 8.2 版本补丁说明！今天我们将展示多个阵营的大量平衡性改动、补丁中新增的一些武器，以及期待已久的好友列表功能！
 
@@ -2231,8 +2099,7 @@ OFFWORLD，待命完毕！
 
 #### 射击手感调整
 
-
-我们对《战术小队》的射击手感进行了一些改动，旨在实现以下目标：<br>
+我们对《战术小队》的射击手感进行了一些改动，旨在实现以下目标：
 
 * 使武器整体感觉更灵敏。
 * 减少玩家移动后因武器失稳而受到的惩罚。
@@ -2241,8 +2108,6 @@ OFFWORLD，待命完毕！
 * 改善冲锋枪在近距离的操控性，使其更适合近距离战斗和侧翼攻击。
 
 **中型机枪（M240 系列、PK 系列、MG3、QJY - 88）**
-
-<br>
 
 * 重新调整 M240 系列的后坐力和晃动，使其更易于控制，特别是在卧姿和使用两脚架时。
 * 统一腰射，使其比以前更易于控制。
@@ -2254,8 +2119,6 @@ OFFWORLD，待命完毕！
 
 **轻机枪（M249 系列、RPD）**
 
-<br>
-
 * 将 M249 系列的精度从 12 MOA 提高到 6 MOA。
 * 统一腰射，使其更易于控制。
 * 根据瞄准镜，统一瞄准移动速度、装备移动速度和换弹移动速度为正常移动速度的 40% - 50%。
@@ -2263,8 +2126,6 @@ OFFWORLD，待命完毕！
 * 统一武器稳定所需时间，比以前更快，但与其他武器类型相比仍然较慢。
 
 **战斗步枪 / 精确射手步枪 / 栓动步枪（C14、FAL、G3、KNT - 76、M110、M14、莫辛纳甘、MPT - 76、QBU - 88、SV - 98M、SVD）**
-
-<br>
 
 * 添加新的摄像机抖动效果，使射击这些武器时感觉更有威力。
 * 移除大多数战斗步枪上的大后坐力曲线，代之以标准后坐力曲线。
@@ -2276,16 +2137,12 @@ OFFWORLD，待命完毕！
 
 **自动步枪（M27 IAR、RPK 系列、带弹鼓的 G3A3、QJB95 - 1）**
 
-<br>
-
 * 重新调整 RPK 系列武器的后坐力配置。
 * 根据瞄准镜，统一瞄准移动速度、装备移动速度和换弹移动速度为正常移动速度的 60% - 70%。
 * 根据姿势和瞄准镜，统一每种姿势的瞄准时间在 0.3 到 0.45 秒之间。使用两脚架的瞄准时间始终为 0.3 秒。
 * 统一武器稳定所需时间，比以前更快。现在将比机枪快，但比步枪慢。
 
 **步枪（M4 系列、AK 系列、L85 系列、EF88 系列、SKS 系列、QBZ95 - 1 系列）**
-
-<br>
 
 * 重新调整 AKM 系列武器的后坐力配置。
 * 根据瞄准镜，统一瞄准移动速度、装备移动速度和换弹移动速度为正常移动速度的 60% - 70%。
@@ -2295,16 +2152,12 @@ OFFWORLD，待命完毕！
 
 **冲锋枪（MP5 系列、SAR - 109T、波波沙冲锋枪（PPSH）、Vz61）**
 
-<br>
-
 * 统一后坐力和晃动配置，使这些高度可控的武器更易于操作。
 * 统一瞄准移动速度、装备移动速度和换弹移动速度为正常速度的 90%。
 * 统一每种姿势的瞄准时间为 0.2 秒。
 * 统一武器稳定所需时间，比以前更快。现在将是除手枪外稳定最快的武器类型。
 
 **手枪**
-
-<br>
 
 * 重新调整晃动，使其更易于控制。
 * 统一瞄准移动速度、装备移动速度和换弹移动速度为正常移动速度的 100%。
@@ -2313,9 +2166,8 @@ OFFWORLD，待命完毕！
 
 #### 好友列表
 
-
 我们在《战术小队》主菜单中添加了好友列表。这应该会使加入好友的服务器变得更容易。这是此功能的第一个版本，我们期望在未来看到它发展得更加完善！更新西太平洋军事联盟 “休伊” 直升机（Loach Helicopters）使用新的 “侦察” 和 “轻型近距离空中支援” 地图图标，以更准确地描述其载具角色。
-管理员现在可以在不同的本地语音聊天模式之间切换：<br>
+管理员现在可以在不同的本地语音聊天模式之间切换：
 
 * 仅收听友方。仅友方可听到。
 * 收听所有人。仅友方可听到。（新默认设置）
@@ -2323,8 +2175,6 @@ OFFWORLD，待命完毕！
 * 收听所有人。仅敌方可听到。
 
 #### 常规错误修复
-
-<br>
 
 * 修复了西太平洋军事联盟 “休伊” 直升机在士兵试图靠近车辆前部、后部和侧面时将其弹开的问题。
 * 修复了西太平洋军事联盟 “休伊” 直升机紧急回收 “推动” 力度过大的问题。
@@ -2350,34 +2200,26 @@ OFFWORLD，待命完毕！
 
 **常规**
 
-
 修复了 “种子” 和 “小规模战斗” 地图中一些阵营的载具布局问题。
 
 **铁砧（Anvil）**
 
-
 小规模战斗 v1 - 修复了投票时西太平洋军事联盟不是选项的错误。
 
 **穆塔哈（Mutaha）**
-
-<br>
 
 * 区域控制与征服 v2 - 修复了第二队中间直升机停机坪在直升机生成后直接将其摧毁的问题。
 * 入侵 v1 - 修复了四轮摩托车不在攻击者基地生成的问题。
 
 **太平洋试验场（Pacific Proving Grounds）**
 
-
 区域控制 v1 - 修复了在夺取最后一个控制点后 “怜悯流血” 立即结束回合的问题。
 
 **三仙岛（Sanxian Islands）**
 
-
 入侵 v1 - 修复了美国海军陆战队直升机侧向生成的问题。
 
 #### 本地化
-
-<br>
 
 * 将占领点名称的本地化恢复为英语，以确保不同地区的玩家在同一服务器上游戏时的一致性。
 * 为了更好地促进玩家交流，将地图层名称恢复为英语。
@@ -2385,30 +2227,19 @@ OFFWORLD，待命完毕！
 
 #### 已知问题
 
-
 我们目前不知道此更新是否产生了任何新的已知问题。如果您碰巧遇到任何想要报告的问题，请使用社区 Discord，我们将相应地更新此贴。
 
 #### 这就是我们对《战术小队》8.2 版本发布说明的汇报
 
-</details>
-
-<details>
-
-<summary>2024/10/24 V8.1.2 更新日志</summary>
+## 2024/10/24 V8.1.2 更新日志
 
 常规 Bug 修复
 
-* 修复了一个可能导致玩家拥有比预期更多的弹药的漏洞。<br>
-* 修复了 WPMC M134 转轮机枪在发射后从远处观看时枪口火焰仍然存在的错误。<br>
+* 修复了一个可能导致玩家拥有比预期更多的弹药的漏洞。
+* 修复了 WPMC M134 转轮机枪在发射后从远处观看时枪口火焰仍然存在的错误。
 * 修复了如果小队客户端已本地化为其他语言，则某些玩家的地图预览屏幕上的旗帜无法正确连接的问题。
 
-</details>
-
-<details>
-
-<summary>2024/10/17 V8.1.1 更新日志</summary>
-
-
+## 2024/10/17 V8.1.1 更新日志
 
 大家好，感谢您的耐心等待，因为我们对这些修复进行了更长时间的准备，这让我们有时间添加尽可能多的 8.1 Hired Guns 更新附带的错误修复。
 
@@ -2416,63 +2247,53 @@ OFFWORLD，待命完毕！
 
 常规 Bug 修复
 
-* 减少了 M134 转轮机枪射击时的掉帧（在 WPMC CPV、Loach 以及 2 座和 4 座技术卡车上配备）。<br>
-* 修复了 BAF FV107 的一个问题，即当一个或两个履带被摧毁时，战车的主体会消失。<br>
-* 修复了当玩家在装弹期间切换到另一种武器时，载具武器可能会卡住并无法使用的问题。<br>
-* 修复了投掷手榴弹时不生成的问题。<br>
-* 修复了WPMC Grenadier 1和2套件库存中不包含望远镜的错误。<br>
-* 调整了 M134 转轮机枪在 WPMC CPV 和技术型 M134 上的装甲穿透力，使其装甲穿透力在更远的距离上向下弯曲。<br>
-* 调整了 WPMC CPV 和 M134 技术型转轮机枪的 MOA。<br>
-* 修复了投票层未正确切换到夜间/白天变体的错误。<br>
-* 修复了 M4 Simon Offense 枪管碰撞时间过长的问题，导致步枪在射程过远时被迫靠墙的问题。<br>
-* 调整了许多 WPMC 林地/沙漠士兵穿 T 恤，因为他们的“面条手臂”已经固定了（他们现在有嚼劲了！<br>
-* 修复了机器人在种子对战上线后会永远生成的错误。<br>
-* 修复了 TLF Jandarma 套件角色没有任何套件限制的问题。<br>
-* 将 WPMC MP5A3 + T800 Optic 的范围从 100m 调整为 50m。<br>
-* 修复了 WPMC Mk19 AGL 地堡在 WPMC 轻步兵单位上没有正确的 2 个炮位限制的问题。<br>
-* 修复了 WPMC M60T 主战坦克在装完弹药后能够继续装填和发射主炮的问题。<br>
-* 修复了 WPMC M1151 TOW 的输入灵敏度对于配备 ATGM 的车辆来说太高的错误。<br>
-* 修复了小队在记分板屏幕上快速交换位置的错误。<br>
-* 修复了在进入炮台时瞄准时瞄准时的游戏错误。<br>
-* 修复了在进入炮台时瞄准时瞄准时的游戏错误。<br>
-* 调整了 WPMC 联合武装（防御）单元，使其现在有 2 个 M1151 牵引，初始延迟为 15 分钟。<br>
-* 管理员广播消息现在将在投票和记分板屏幕上可见。<br>
-* 修复了 TLF / USA M113A3 Mk19 敞篷装甲运兵车的图标在车辆列表上显示为闭顶装甲运兵车的问题，而它应该显示为敞篷装甲运兵车。<br>
-* Harju AAS v2 - 修复了 WPMC 使用大型阵营设置而不是中型的问题。<br>
-* 修复了 RGF T-90A 主战坦克指挥官的 NSVT MG 不可见的问题。<br>
+* 减少了 M134 转轮机枪射击时的掉帧（在 WPMC CPV、Loach 以及 2 座和 4 座技术卡车上配备）。
+* 修复了 BAF FV107 的一个问题，即当一个或两个履带被摧毁时，战车的主体会消失。
+* 修复了当玩家在装弹期间切换到另一种武器时，载具武器可能会卡住并无法使用的问题。
+* 修复了投掷手榴弹时不生成的问题。
+* 修复了WPMC Grenadier 1和2套件库存中不包含望远镜的错误。
+* 调整了 M134 转轮机枪在 WPMC CPV 和技术型 M134 上的装甲穿透力，使其装甲穿透力在更远的距离上向下弯曲。
+* 调整了 WPMC CPV 和 M134 技术型转轮机枪的 MOA。
+* 修复了投票层未正确切换到夜间/白天变体的错误。
+* 修复了 M4 Simon Offense 枪管碰撞时间过长的问题，导致步枪在射程过远时被迫靠墙的问题。
+* 调整了许多 WPMC 林地/沙漠士兵穿 T 恤，因为他们的“面条手臂”已经固定了（他们现在有嚼劲了！
+* 修复了机器人在种子对战上线后会永远生成的错误。
+* 修复了 TLF Jandarma 套件角色没有任何套件限制的问题。
+* 将 WPMC MP5A3 + T800 Optic 的范围从 100m 调整为 50m。
+* 修复了 WPMC Mk19 AGL 地堡在 WPMC 轻步兵单位上没有正确的 2 个炮位限制的问题。
+* 修复了 WPMC M60T 主战坦克在装完弹药后能够继续装填和发射主炮的问题。
+* 修复了 WPMC M1151 TOW 的输入灵敏度对于配备 ATGM 的车辆来说太高的错误。
+* 修复了小队在记分板屏幕上快速交换位置的错误。
+* 修复了在进入炮台时瞄准时瞄准时的游戏错误。
+* 修复了在进入炮台时瞄准时瞄准时的游戏错误。
+* 调整了 WPMC 联合武装（防御）单元，使其现在有 2 个 M1151 牵引，初始延迟为 15 分钟。
+* 管理员广播消息现在将在投票和记分板屏幕上可见。
+* 修复了 TLF / USA M113A3 Mk19 敞篷装甲运兵车的图标在车辆列表上显示为闭顶装甲运兵车的问题，而它应该显示为敞篷装甲运兵车。
+* Harju AAS v2 - 修复了 WPMC 使用大型阵营设置而不是中型的问题。
+* 修复了 RGF T-90A 主战坦克指挥官的 NSVT MG 不可见的问题。
 
+地图更新和错误修复巴士拉
 
+* 修复了 WPMC 泥鳅直升机有时会侧向生成的问题。
 
-地图更新和错误修复巴士拉<br>
+埃斯克
 
-* 修复了 WPMC 泥鳅直升机有时会侧向生成的问题。<br>
-
-
-埃斯克<br>
-
-* AAS v2 - 修复了 WPMC 使用大型阵营设置而不是中型阵营设置的问题。<br>
-
+* AAS v2 - 修复了 WPMC 使用大型阵营设置而不是中型阵营设置的问题。
 
 Mod SDK 更新
 
-* 修复了 SquidBots 未清除其高优先级订单的错误。<br>
-
+* 修复了 SquidBots 未清除其高优先级订单的错误。
 
 地方化已知问题
 我们注意到一个错误，该错误可能会导致在玩 Squad 本地化时，目标连接和顺序在投票屏幕的地图预览图像上显示不正确。我们正在开发一个修复程序，该修复程序应该会在下一次更新中发布。
-<br>
 
-* 将车辆名称恢复为英文，以便于沟通和认领。<br>
-* 将占领点名称的本地化恢复为英文，以确保来自不同地区的玩家在同一服务器上玩游戏时的一致性。<br>
-* 在 Summary、Scoreboard 和 Voting 屏幕中添加了缺失的简体中文本地化。<br>
-* 更正了弹药和车辆名称的乌克兰语和俄语本地化错误。<br>
+* 将车辆名称恢复为英文，以便于沟通和认领。
+* 将占领点名称的本地化恢复为英文，以确保来自不同地区的玩家在同一服务器上玩游戏时的一致性。
+* 在 Summary、Scoreboard 和 Voting 屏幕中添加了缺失的简体中文本地化。
+* 更正了弹药和车辆名称的乌克兰语和俄语本地化错误。
 * 修复了 M16 Forest Viper 皮肤的描述对使用德语和巴西葡萄牙语的玩家以英语显示的错误。
 
-</details>
-
-<details>
-
-<summary>2024/9/24 V8.1 更新日志 <mark style="color:red;"><strong>重大更新</strong></mark></summary>
+## 2024/9/24 V8.1 更新日志 重大更新
 
 ![](https://clan.st.dl.eccdnx.com/images/10141695/35ce77ce891e3d0058c773784edefd692ccbbea7.png)
 
@@ -2483,10 +2304,10 @@ Hired Guns 更新为 Squad 带来了西部私人军事承包商 （WPMC） 派�
 ![](https://clan.st.dl.eccdnx.com/images/10141695/e78d7fb135c0b226643edcea36e4160761bc2e92.png)西部私人军事承包商 （WPMC） 派系西部私人军事承包商 （WPMC） 派系...西部 PMC 是一个不规则的独立派系，专注于非标准化的现代步兵。虽然他们可能缺乏其他常规部队所拥有的一些工具，例如重型车辆和重型武器，但他们用速度、敏捷性和步兵火力弥补了这一点。
 特点
 
-* 原色/图案是黑色和售后迷彩。<br>
-* 独立派系，可以与游戏中的任何其他派系匹配。<br>
-* 这个派系可以部署到任何生物群系或地图。<br>
-* 这个派系明显缺乏重型车辆，缺乏步兵战车。<br>
+* 原色/图案是黑色和售后迷彩。
+* 独立派系，可以与游戏中的任何其他派系匹配。
+* 这个派系可以部署到任何生物群系或地图。
+* 这个派系明显缺乏重型车辆，缺乏步兵战车。
 * 这个派系拥有种类繁多的现代有效的轻武器。
 
 WPMC 装置Murk Water Air Wing （Air Assault）该部队优先从空中攻击，并配备了新的近距离空中支援 Loach 直升机。由于专注于空中作战，该部队缺乏其他 WPMC 部队可以使用的 M60T 主战坦克和 M1151 反坦克导弹变体。
@@ -2545,108 +2366,106 @@ WPMC 指挥官指挥官技能：WPMC Commander 可以使用手持无人机和重
 
 我们还用这些更新、更智能的机器人取代了 Jensen's Range 杀戮室机器人。
 
-![](https://clan.st.dl.eccdnx.com/images/10141695/b66dbfc795d93561952f5bf3bd381fd8500872eb.png)<br>
+![](https://clan.st.dl.eccdnx.com/images/10141695/b66dbfc795d93561952f5bf3bd381fd8500872eb.png)
 
-*   进攻方/防守方获胜几率的入侵游戏模式平衡性更改：<br>
+*   进攻方/防守方获胜几率的入侵游戏模式平衡性更改：
 
-    * 将攻击者的初始工单从 200 个增加到 250 个（增加）<br>
-    * 目标捕获票的获得量从 100 增加到 130<br>
-    * 更新了所有 Invasion 地图图层，使其具有标准的最多 5 个标志布局。例外是：Harju Invasion v1 & v2，Sumari Invasion v1。<br>
+    * 将攻击者的初始工单从 200 个增加到 250 个（增加）
+    * 目标捕获票的获得量从 100 增加到 130
+    * 更新了所有 Invasion 地图图层，使其具有标准的最多 5 个标志布局。例外是：Harju Invasion v1 & v2，Sumari Invasion v1。
     * RAAS、AAS、入侵旗帜占领速度提升现在最多增加 27 名玩家（之前，最大占领速度比例最高为 8 名玩家）。9 名玩家的新占领速度与之前的最大占领速度相同：初始夺旗（或“后盖”）为 77 秒。随着玩家的增加，它的捕获速度会更快：18 名玩家为 46 秒，27 名玩家为 35 秒。这将允许新的 backcapping 策略更快地解锁/显示下一个标志。
 
     注意： 由于新的最大值，显示的“捕获速度 V 形”数量已略有变化。您将在 9 名玩家中看到 4 个 V 形，在 15+ 名玩家中看到 5 个 V 形。
-    <br>
-* 提高了载具部署的红外烟雾弹对 ATGM 的有效性，尤其是光束骑乘（Kornet、Refleks、Bastion）。<br>
-* TLF 派系 - 将 HAR-66 火箭发射器添加到两个 LAT 角色中。<br>
-* MEA 派系 - 将 MPT9 SMG 添加到乘员和飞行员套件角色中。<br>
-* 从所有播种地图图层中删除了带有 MGL 6 发榴弹发射器的 TLF 掷弹兵套件。<br>
-* 将 RGF BMP-2M IFV AGS30 的总弹匣大小从 300 减少至 120。<br>
-* 减少 Mk19 弹药每条传送带有 32 发子弹，适用于以下战车：<br>
-  * 美国 / 美国海军陆战队 M1151 Mk19<br>
-  * 美国 / 美国海军陆战队 MATV Mk19<br>
-  * 美国/TLF M113A3 Mk19<br>
-  * 美国海军陆战队 RHIB Mk19<br>
-  * 美国海军陆战队AAVP7A1<br>
-  * CAF TAPV Mk19<br>
+    
+* 提高了载具部署的红外烟雾弹对 ATGM 的有效性，尤其是光束骑乘（Kornet、Refleks、Bastion）。
+* TLF 派系 - 将 HAR-66 火箭发射器添加到两个 LAT 角色中。
+* MEA 派系 - 将 MPT9 SMG 添加到乘员和飞行员套件角色中。
+* 从所有播种地图图层中删除了带有 MGL 6 发榴弹发射器的 TLF 掷弹兵套件。
+* 将 RGF BMP-2M IFV AGS30 的总弹匣大小从 300 减少至 120。
+* 减少 Mk19 弹药每条传送带有 32 发子弹，适用于以下战车：
+  * 美国 / 美国海军陆战队 M1151 Mk19
+  * 美国 / 美国海军陆战队 MATV Mk19
+  * 美国/TLF M113A3 Mk19
+  * 美国海军陆战队 RHIB Mk19
+  * 美国海军陆战队AAVP7A1
+  * CAF TAPV Mk19
   * Mk19 三脚架位置
-* 对 RGF 派系进行了以下更改：<br>
-* 从 RGF 机械化战斗群中移除了 1x BMP-1AM 步兵战车<br>
-* 为 RGF 装甲战斗群添加了 1x BMP-1AM 步兵战车<br>
-* 更新了步兵和直升机教程，使其具有独特的加载屏幕图像。<br>
-* 在单位信息屏幕中添加了滚动文本，以使 UI 更加一致和可读。<br>
-* 更新了 Weapon Skins 菜单中的几张武器卡以保持一致性。<br>
+* 对 RGF 派系进行了以下更改：
+* 从 RGF 机械化战斗群中移除了 1x BMP-1AM 步兵战车
+* 为 RGF 装甲战斗群添加了 1x BMP-1AM 步兵战车
+* 更新了步兵和直升机教程，使其具有独特的加载屏幕图像。
+* 在单位信息屏幕中添加了滚动文本，以使 UI 更加一致和可读。
+* 更新了 Weapon Skins 菜单中的几张武器卡以保持一致性。
 * 添加 Discord Rich Presence 支持 PLAAGF 和 TLF 派系以及三仙列岛地图。
-
 
 ![](https://clan.st.dl.eccdnx.com/images/10141695/8edf86b922e499171ca8bc0def49e0aa41873030.png)常规 Bug 修复
 
-* 修复了一个长期存在的错误，该错误会导致玩家在被车辆碾压后无限期地卡在人偶状态中。<br>
-* 修复了在启动游戏或更改地图时可能发生的罕见崩溃。<br>
-* 修复了玩家所在战车上的弹药图标在更换团队后仍然可见的问题。<br>
-* 修复了线导 ATGM 的 VFX 的一些错误。<br>
-* 修复了在 IMF/INS 技术短号车的炮手位置重新装填时导致镜头剪辑的错误。<br>
-* 对齐美国/美国海军陆战队 M4 / M16A4 步枪上的铁瞄准具。<br>
-* 修复了 IMF M4 步枪的 3 倍瞄准镜的归零问题。<br>
-* 修复了 IMF M16A2 步枪在 Squad Leader Kit 上的一个错误，该错误导致玩家无法调整射程。<br>
-* 修复了 BAF G17 手枪上不准确的尺寸。<br>
-* 修复了允许 PLAAGF 机械化和联合武装部队在防御时使用 HJ8 反坦克导弹的错误。<br>
-* 具有入口计时器的炮台已更改为允许即时进入。<br>
-* 修复了 PLANMC ZTD05 车辆残骸看起来像 ZBD05 的错误。<br>
-* 修复了 TLF Cobra II MRAP 的视觉错误。<br>
-* CAF LUV-A1 和 USMC 四轮摩托车现在拥有在沙漠道路和浅水中行驶的正确 SFX。<br>
-* 修复了 VDV 班长和掷弹兵士兵的视觉错误。<br>
-* 修复了一个错误，该错误会导致直升机残骸为附近加入服务器的玩家发出爆炸声。<br>
-* 修复了一个 Bug，该 Bug 会阻止玩家在烹饪时杀死手榴弹时正确爆炸。<br>
-* 修复了当由于视线或对抗干扰而失去制导时，ATGM 教程 UI 失败状态提示不闪烁的问题。<br>
-* 修复了 Beam-Rider 的“Can Reacquire Guidance prompt”在不应该闪烁时闪烁的问题。<br>
-* 修复了 UI ATGM 失败状态提示的几个元素未设置动画的问题。<br>
-* 修复了 ATGM 教程按钮提示的多个错误，现在应该更加一致且更容易查看。<br>
-* 修复了一个错误，该错误会阻止炮塔激光测距仪测量超过 1.5 公里的距离。<br>
-* 修复了一个错误，该错误可能导致炮塔激光测距仪在某些战车上朝特定方向看时错误地显示值“000”。<br>
-* 美国 UH-60M 直升机上的旋翼 SFX 在旋翼被摧毁后不再继续播放。<br>
-* 修复了 MPT-76 在远距离通过烟雾可见的问题<br>
-* 修复了集结点物品在 BAF 士兵手中看起来不可见的错误。<br>
-* 调整了以下战车的物品槽布局，使其与其他战车更加一致：<br>
-  * INS BRDM-2<br>
-  * RGF T-90A<br>
+* 修复了一个长期存在的错误，该错误会导致玩家在被车辆碾压后无限期地卡在人偶状态中。
+* 修复了在启动游戏或更改地图时可能发生的罕见崩溃。
+* 修复了玩家所在战车上的弹药图标在更换团队后仍然可见的问题。
+* 修复了线导 ATGM 的 VFX 的一些错误。
+* 修复了在 IMF/INS 技术短号车的炮手位置重新装填时导致镜头剪辑的错误。
+* 对齐美国/美国海军陆战队 M4 / M16A4 步枪上的铁瞄准具。
+* 修复了 IMF M4 步枪的 3 倍瞄准镜的归零问题。
+* 修复了 IMF M16A2 步枪在 Squad Leader Kit 上的一个错误，该错误导致玩家无法调整射程。
+* 修复了 BAF G17 手枪上不准确的尺寸。
+* 修复了允许 PLAAGF 机械化和联合武装部队在防御时使用 HJ8 反坦克导弹的错误。
+* 具有入口计时器的炮台已更改为允许即时进入。
+* 修复了 PLANMC ZTD05 车辆残骸看起来像 ZBD05 的错误。
+* 修复了 TLF Cobra II MRAP 的视觉错误。
+* CAF LUV-A1 和 USMC 四轮摩托车现在拥有在沙漠道路和浅水中行驶的正确 SFX。
+* 修复了 VDV 班长和掷弹兵士兵的视觉错误。
+* 修复了一个错误，该错误会导致直升机残骸为附近加入服务器的玩家发出爆炸声。
+* 修复了一个 Bug，该 Bug 会阻止玩家在烹饪时杀死手榴弹时正确爆炸。
+* 修复了当由于视线或对抗干扰而失去制导时，ATGM 教程 UI 失败状态提示不闪烁的问题。
+* 修复了 Beam-Rider 的“Can Reacquire Guidance prompt”在不应该闪烁时闪烁的问题。
+* 修复了 UI ATGM 失败状态提示的几个元素未设置动画的问题。
+* 修复了 ATGM 教程按钮提示的多个错误，现在应该更加一致且更容易查看。
+* 修复了一个错误，该错误会阻止炮塔激光测距仪测量超过 1.5 公里的距离。
+* 修复了一个错误，该错误可能导致炮塔激光测距仪在某些战车上朝特定方向看时错误地显示值“000”。
+* 美国 UH-60M 直升机上的旋翼 SFX 在旋翼被摧毁后不再继续播放。
+* 修复了 MPT-76 在远距离通过烟雾可见的问题
+* 修复了集结点物品在 BAF 士兵手中看起来不可见的错误。
+* 调整了以下战车的物品槽布局，使其与其他战车更加一致：
+  * INS BRDM-2
+  * RGF T-90A
   * PLA/PLANMC ZTD05
-* RGF BMP-1AM IFV 上的炮塔似乎不再漂浮在车辆上方。<br>
-* 修复了 BMP-2M IFV 机枪手在发射 Kornet ATGM 时遇到错误的屏幕抖动的问题。<br>
-* 修复了导致车辆轨迹在被摧毁后卡入车辆或道路的错误。<br>
-* 修复了 CAF LUVW C6 赛车的一个错误，在浅水中行驶不再会弹出炮手座位上的玩家。<br>
-* 修复了反坦克火箭发射器的 backblast 不造成伤害的问题。<br>
-* 对路线摇摆计算进行了多项改进。<br>
-* 修复了与射弹相关的崩溃。<br>
-* 修复了 IMF 士兵的脖子可能会夹住运动服的错误。<br>
-* 修复了 USMC Rifleman 1 的左前臂在奔跑时笨拙地扭动的错误。<br>
-* 修复了阻止 PLANMC 制服的某些部分变得泥泞的错误<br>
-* 只要动画尚未完成，在玩家正在为反坦克地雷或 C4/TNT 点火时杀死玩家现在会成功阻止该物品的放置。<br>
-* 修复了导致团队选择屏幕的“Special Characteristics（特殊特征）”部分有时不准确的错误。<br>
-* 在投票阶段单击单元或图层的信息按钮时，不再播放两次单击 SFX。<br>
-* 修复了在使用武器检视表情时导致 USMC M4 的垂直握把卡在士兵左臂上的错误。<br>
-* 修复了 TLF KNT-76 的瞄准镜未出现在武器皮肤预览中的错误<br>
-* 修正了 Thicket 武器皮肤上的材质。<br>
-* 修复了一个错误，该错误会导致玩家在手持已上火的手榴弹时死亡时掉落两枚手榴弹，而不是一枚。<br>
-* 修复了当玩家进入打开的炮塔载具武器时，第一次加载/装备动画有时不会播放的错误。<br>
-* 修复了 MK19 AGL 上的手榴弹腰带在重新装填武器时似乎夹入弹药盒的错误。<br>
-* 修复了美国 LAT 01 士兵的角色模型在使用某些表情时可能会改变外观的错误。<br>
-* 修复了在比赛结束和最终投票结果期间不显示用于发送音频的 VOIP 指示器的错误。<br>
-* 修复了弹药和建造补给计数器可能错误地显示零或空值的错误，即使战车正在装载或装满弹药和/或建造补给。<br>
-* 修复了加载屏幕提示中的几个拼写错误。<br>
+* RGF BMP-1AM IFV 上的炮塔似乎不再漂浮在车辆上方。
+* 修复了 BMP-2M IFV 机枪手在发射 Kornet ATGM 时遇到错误的屏幕抖动的问题。
+* 修复了导致车辆轨迹在被摧毁后卡入车辆或道路的错误。
+* 修复了 CAF LUVW C6 赛车的一个错误，在浅水中行驶不再会弹出炮手座位上的玩家。
+* 修复了反坦克火箭发射器的 backblast 不造成伤害的问题。
+* 对路线摇摆计算进行了多项改进。
+* 修复了与射弹相关的崩溃。
+* 修复了 IMF 士兵的脖子可能会夹住运动服的错误。
+* 修复了 USMC Rifleman 1 的左前臂在奔跑时笨拙地扭动的错误。
+* 修复了阻止 PLANMC 制服的某些部分变得泥泞的错误
+* 只要动画尚未完成，在玩家正在为反坦克地雷或 C4/TNT 点火时杀死玩家现在会成功阻止该物品的放置。
+* 修复了导致团队选择屏幕的“Special Characteristics（特殊特征）”部分有时不准确的错误。
+* 在投票阶段单击单元或图层的信息按钮时，不再播放两次单击 SFX。
+* 修复了在使用武器检视表情时导致 USMC M4 的垂直握把卡在士兵左臂上的错误。
+* 修复了 TLF KNT-76 的瞄准镜未出现在武器皮肤预览中的错误
+* 修正了 Thicket 武器皮肤上的材质。
+* 修复了一个错误，该错误会导致玩家在手持已上火的手榴弹时死亡时掉落两枚手榴弹，而不是一枚。
+* 修复了当玩家进入打开的炮塔载具武器时，第一次加载/装备动画有时不会播放的错误。
+* 修复了 MK19 AGL 上的手榴弹腰带在重新装填武器时似乎夹入弹药盒的错误。
+* 修复了美国 LAT 01 士兵的角色模型在使用某些表情时可能会改变外观的错误。
+* 修复了在比赛结束和最终投票结果期间不显示用于发送音频的 VOIP 指示器的错误。
+* 修复了弹药和建造补给计数器可能错误地显示零或空值的错误，即使战车正在装载或装满弹药和/或建造补给。
+* 修复了加载屏幕提示中的几个拼写错误。
 * 修复了关闭时出现的弹出窗口的本地化错误
-
 
 地图更新和错误修复常规
 
 * 入侵 - 标准化了以下地图的占领区布局：巴士拉、铁砧、贝拉亚、乔拉、费卢杰、愚人路、戈罗多克、坎德什高地、科哈特托伊、科坎
 
-贝拉亚<br>
+贝拉亚
 
 * RAAS v1 - 修复了当获胜团队夺取第 5 面旗帜时导致失败团队票证流失的错误。
 
 费卢杰
 
-* AAS v1 - 修复了阻止轻步兵自行车在美国主基地生成的错误。<br>
+* AAS v1 - 修复了阻止轻步兵自行车在美国主基地生成的错误。
 * RAAS v1 - 修复了命名错误的捕获区域。
 
 鹅湾
@@ -2663,7 +2482,7 @@ WPMC 指挥官指挥官技能：WPMC Commander 可以使用手持无人机和重
 
 穆塔哈
 
-* AAS v1 - 团队 1 的弹药箱不再在维修站内生成。<br>
+* AAS v1 - 团队 1 的弹药箱不再在维修站内生成。
 * 修复了阻止一些水陆两栖车辆在 Mutaha 以北的桥附近过河的错误。
 
 三县列岛
@@ -2672,8 +2491,8 @@ WPMC 指挥官指挥官技能：WPMC Commander 可以使用手持无人机和重
 
 斯科波
 
-* RAAS v1 - 更新了主基地生成，以获得更好的流程。<br>
-* RAAS v1 - 修复了一些与船只未按预期生成相关的错误。<br>
+* RAAS v1 - 更新了主基地生成，以获得更好的流程。
+* RAAS v1 - 修复了一些与船只未按预期生成相关的错误。
 * RAAS v1 - 修复了小地图在某些位置可能不正确的错误。
 
 新武器皮肤承包商包（7.99 美元）这个新包包含新 WPMC 派系的 8 种新化妆品。每个武器皮肤都有一个沙漠地图版本和一个林地地图版本。以下是礼包中每个物品的详细介绍：
@@ -2706,19 +2525,19 @@ Hold Flag （表情）旗帜会根据你当前的派系而变化！
 
 Mod SDK 更新
 
-* 更新 mod SDK 到 v8.1。<br>
-* 将 Mod 版本控制更新到 v8.1。这意味着所有 Mod 都需要使用 v8.0 SDK 重新烘焙，才能与游戏的更新版本兼容。<br>
+* 更新 mod SDK 到 v8.1。
+* 将 Mod 版本控制更新到 v8.1。这意味着所有 Mod 都需要使用 v8.0 SDK 重新烘焙，才能与游戏的更新版本兼容。
 * 在每个车辆座椅上添加了配置选项，以允许在车辆的角度高于给定阈值或车辆的加速度突然变化时强行弹出乘客。
 
-地方化我们添加了以下语言的翻译：<br>
+地方化我们添加了以下语言的翻译：
 
-* 巴西葡萄牙语<br>
-* 法语<br>
-* 德语<br>
-* 日语<br>
-* 俄语<br>
-* 西班牙语<br>
-* 简体中文<br>
+* 巴西葡萄牙语
+* 法语
+* 德语
+* 日语
+* 俄语
+* 西班牙语
+* 简体中文
 * 乌克兰语
 
 这是一项持续的努力，它们可能会有一些不一致之处，请在 Squad Discord 中看到它们时报告这些内容！已知问题
@@ -2727,64 +2546,49 @@ Mod SDK 更新
 
 我们对 8.1 小队发行说明的汇报到此结束！请继续关注我们的 Steam 论坛，了解我们所有即将推出的通讯！
 
-</details>
-
-<details>
-
-<summary>2024/7/18 V8.0.2 更新日志</summary>
+## 2024/7/18 V8.0.2 更新日志
 
 我们刚刚发布了 8.0.2 更新的修补程序
 
-* 修复了帧率对武器摇摆产生影响的 bug。<br>
-* 修复了战车的护甲值根据战车方向而变化的错误。<br>
+* 修复了帧率对武器摇摆产生影响的 bug。
+* 修复了战车的护甲值根据战车方向而变化的错误。
 * 修复了当反坦克制导导弹在撞击时被摧毁时可能发生的罕见客户端崩溃问题。
-
 
   今天简短而甜蜜！感谢您的耐心等待，同时我们解决了武器处理/FPS 问题的错误。所有社区收集的数据、视频和错误报告都真正帮助了这个过程！
 
-</details>
+## 2024/6/25 V8.0.1 更新日志
 
-<details>
-
-<summary>2024/6/25 V8.0.1 更新日志</summary>
-
-你好小队我们刚刚发布了 8.0.1 更新的修补程序！<br>
+你好小队我们刚刚发布了 8.0.1 更新的修补程序！
 
 * 对 USA/TLF M1064A3 M120 迫击炮进行了平衡性调整： - 缩小了 M120 空爆弹的致命伤害范围，这些弹现在的致死半径要小得多，但伤力半径更大
   - 最大射程从 ~3600m 减少到 ~2000m。最小射程也从~650米减少到~370米-每发子弹的装填时间从3秒增加到5秒
-  - 增加了所有子弹的角度分钟（MOA）散布误差 - 弹药消耗从每发30点增加到50发子弹点<br>
+  - 增加了所有子弹的角度分钟（MOA）散布误差 - 弹药消耗从每发30点增加到50发子弹点
 * 将 ATGM 教程文本添加到 Jensen 的范围内
-* PLA ZTZ99A MBT - 修复了装甲值比预期强得多的错误。<br>
-* MEA/INS/IMF BMP-1 跟踪 IFV - 修复了线缆 VFX 的一个错误。<br>
-* CAF C7A3+C79A2 步枪变体 - 修复了一个错误，即如果武器射程为 800 米，C79A2 瞄准器会夹入相机并无法使用。<br>
-* RGF BMP-2M 履带式 IFV - 用看起来与 ATGM FOV 指示器不太相似的新十字线替换了短号十字线。<br>
-* RGF BMP-2M 跟踪 IFV - 修复了短号在触发时不会导致屏幕抖动的错误。<br>
-* RGF BMP-2M 跟踪式 IFV - 修复了 Kornet ATGM 在 UI 中被错误地称为“有线导”的错误。<br>
-* RGF BMP-2M 履带式 IFV - 修复了一个错误，即维修重装站正在重新武装五枚短号导弹，而不是预期的四枚。<br>
-* RGF MT-LB VMK APC - 修复了用户无法在沙漠地图上启动引擎的错误。<br>
-* RGF BRDM-2 Spandrel - 在 Konkurs 炮手座位上右键单击不再会导致十字线消失。<br>
-* USA M113A3 Tracked Logistics - 修复了地图图标不正确的错误。<br>
-* USA/USMC M1151 Mk19 轻型汽车 - 修复了 M1151 Mk19 的林地版本留下沙漠迷彩残骸的错误。<br>
-* 美国 M7A3 BFIST 履带式 ARV - 修复了 M7A3 的林地版本留下沙漠迷彩残骸的错误。<br>
-* AK-74M GP-25 + 1P78 武器皮肤 - 修复了一个错误，即在装备掷弹兵 GP-25 烟雾弹时，武器的外观会变回默认状态。<br>
-* 修复了放大和缩小时波束骑行 ATGM FOV 半径（红色圆圈）无法缩放的 bug。<br>
-* 修复了 MEA、PLA、PLANMC 和 PLAAGF 单位只有一个可用的 HAT 套件而不是两个的 bug。<br>
-* 修复了一个错误，该错误导致ADF机械化单位错过了他们的反坦克导弹炮台以进行进攻。他们现在可以访问每个 FOB 放置 1 个 TOW。<br>
-* 修复了 ADF 单位在 Boat 变体上缺少其 RHIB Logi 的 bug。<br>
-* 修复了NSV三脚架上的十字线损坏。<br>
-* 修复了线导反坦克导弹的视觉特效的一些视觉错误。<br>
-* 修复了 M2 Bradley 和 BMP-2 在切换到 ATGM 时丢失枪管的错误。<br>
-* 修复了某些 ATGM 没有正确的缩放功能的 bug。<br>
-* 修复了枪发射反坦克导弹的爆炸锥的长度和角度不正确的错误。<br>
-* 修复了 TLF 掷弹兵士兵的几个视觉错误。<br>
+* PLA ZTZ99A MBT - 修复了装甲值比预期强得多的错误。
+* MEA/INS/IMF BMP-1 跟踪 IFV - 修复了线缆 VFX 的一个错误。
+* CAF C7A3+C79A2 步枪变体 - 修复了一个错误，即如果武器射程为 800 米，C79A2 瞄准器会夹入相机并无法使用。
+* RGF BMP-2M 履带式 IFV - 用看起来与 ATGM FOV 指示器不太相似的新十字线替换了短号十字线。
+* RGF BMP-2M 跟踪 IFV - 修复了短号在触发时不会导致屏幕抖动的错误。
+* RGF BMP-2M 跟踪式 IFV - 修复了 Kornet ATGM 在 UI 中被错误地称为“有线导”的错误。
+* RGF BMP-2M 履带式 IFV - 修复了一个错误，即维修重装站正在重新武装五枚短号导弹，而不是预期的四枚。
+* RGF MT-LB VMK APC - 修复了用户无法在沙漠地图上启动引擎的错误。
+* RGF BRDM-2 Spandrel - 在 Konkurs 炮手座位上右键单击不再会导致十字线消失。
+* USA M113A3 Tracked Logistics - 修复了地图图标不正确的错误。
+* USA/USMC M1151 Mk19 轻型汽车 - 修复了 M1151 Mk19 的林地版本留下沙漠迷彩残骸的错误。
+* 美国 M7A3 BFIST 履带式 ARV - 修复了 M7A3 的林地版本留下沙漠迷彩残骸的错误。
+* AK-74M GP-25 + 1P78 武器皮肤 - 修复了一个错误，即在装备掷弹兵 GP-25 烟雾弹时，武器的外观会变回默认状态。
+* 修复了放大和缩小时波束骑行 ATGM FOV 半径（红色圆圈）无法缩放的 bug。
+* 修复了 MEA、PLA、PLANMC 和 PLAAGF 单位只有一个可用的 HAT 套件而不是两个的 bug。
+* 修复了一个错误，该错误导致ADF机械化单位错过了他们的反坦克导弹炮台以进行进攻。他们现在可以访问每个 FOB 放置 1 个 TOW。
+* 修复了 ADF 单位在 Boat 变体上缺少其 RHIB Logi 的 bug。
+* 修复了NSV三脚架上的十字线损坏。
+* 修复了线导反坦克导弹的视觉特效的一些视觉错误。
+* 修复了 M2 Bradley 和 BMP-2 在切换到 ATGM 时丢失枪管的错误。
+* 修复了某些 ATGM 没有正确的缩放功能的 bug。
+* 修复了枪发射反坦克导弹的爆炸锥的长度和角度不正确的错误。
+* 修复了 TLF 掷弹兵士兵的几个视觉错误。
 
-<br>
-
-</details>
-
-<details>
-
-<summary>2024/6/12 V8.0 更新日志 <mark style="color:red;"><strong>重大更新</strong></mark></summary>
+## 2024/6/12 V8.0 更新日志 重大更新
 
 今天，我们提前发布了 Squad 8.0 补丁说明。该更新将于 6 月 12 日太平洋时间上午 11 点（英国夏令时晚上 7 点）发布。
 
@@ -2793,78 +2597,66 @@ Mod SDK 更新
 
 本次更新为RGF、USA和TLF阵营带来了新的单位，并对我们的反坦克导弹系统进行了大修。我们还改进了加载屏幕，并发布了新的武器皮肤包。
 
-&#x20;**美国新品**<br>
+&#x20;**美国新品**
 
 * 第37装甲师第3装甲团（装甲）加入美国阵营作为装甲部队，第37装甲团将使用M1A2主战坦克，由M113A3装甲运兵车支援，作为步兵的后勤车辆和装甲运兵车。他们还将获得新的M7A3 BFIST IFV，这是一种缺少TOW ATGM的M2A3 IFV变体。
-  <br>
+  
 * 第1骑兵团（机械化）填补美国派系名册中的机械化部队，第1骑兵团将使用M2A3 IFV，由M113A3装甲运兵车支援，作为后勤车辆和装甲运兵车（包括Mk19变体）。他们还将收到我们新的M1064A3移动迫击炮运输车，使用重型 120 毫米迫击炮，但代价是他们的 FOB 上没有可部署的迫击炮。
-  <br>
+  
 * 第497战斗维持支援营（支援）第497营将加入美国阵营，作为他们的支援单位。他们将获得三辆M939后勤卡车，由M1151 MRAP，M113A3装甲运兵车和M1064A3移动迫击炮运输车提供支持。他们可以部署额外的 HAB 和 ATGM，类似于其他传统的派系支援单位。
-  <br>
+  
 * Mk19 AGL 炮台：Mk19 自动榴弹发射器 （AGL） 炮台可以部署在空中突击和/或轻步兵部队的 ADF、BAF、CAF、TLF、USA 和 USMC FOB 上并建造。注意：Mk19 目前是德国 GMG 自动榴弹发射器的占位符，应该由 BAF 和 CAF 派系使用。我们计划在未来为其他派系添加更多类型的 AGL。
 
   ![](<../.gitbook/assets/image (28).png>)
-  <br>
+  
 * M113A3装甲运兵车：M113A3是一款标志性的大规模生产的装甲运兵车。它将与非武装后勤变体、M2 重机枪变体和 Mk19 自动榴弹发射器变体一起出现在游戏中。它将出现在美国装甲、机械化、支援部队、CAF 装甲（后勤变体）和 TLF 装甲和机械化单位（后勤变体）上。
-  <br>
+  
 * M1064A3迫击炮车：M1064A3是M113A3装甲运兵车的迫击炮运载型。它使用强大的 120 毫米迫击炮。它将出现在美国机械化和支援部队以及TLF支援部队上。
-  <br>
+  
 * M7A3“BFIST”IFV：M7A3火力支援小组是M2A3 IFV的侦察变体，将TOW发射器换成先进的光学和传感器吊舱。这辆车将取代美国装甲部队的标准M2A3，并出现在机械化部队上。
-  <br>
+  
 * Mk19车辆变体：美国和美国海军陆战队派系现在将获得M1151和MATV Mk19变体，它们将出现在美国空中突击部队和美国和美国海军陆战队轻步兵部队上。美国海军陆战队还在其两栖突击部队上安装了RHIB Mk19变体。
 
   ![](<../.gitbook/assets/image (29).png>)
-  <br>
+  
 
-
-
-TLF 的新功能<br>
+TLF 的新功能
 
 * 陆军后勤司令部战斗群（支援）加入土耳其陆军作为支援单位，他们将使用三辆BMC Logi卡车，由Cobra II MRAP和ACV-15 APC提供支持，并接收新的M113A3 M120移动迫击炮车。
-  <br>
+  
 * UH60 直升机：我们重新设计了 UH60 直升机的外观，以便与 TLF 一起使用。这辆车将使用PKT门炮，可在TLF的空中突击和支援单位中使用。
 
   ![](https://clan.akamai.steamstatic.com/images/10141695/c4a15b2608f8176f39024993b6fb5a656d2af9c7.jpg)
-  <br>
-
-
+  
 
 我们还更新了现有TLF部队的制服，使其更加真实。去看看吧！
 
-RGF 新增功能<br>
+RGF 新增功能
 
 * 第205独立摩托步枪旅（机械化）第205旅将填补俄罗斯地面部队派系的机械化部队。它将专注于新的BMP-3和BMP-2M步兵战车，由MTLB APC作为后勤车辆和装甲运兵车提供支持。
-  <br>
+  
 * BMP-2M IFV：BMP-2 IFV的现代改装，特别是使用了额外的武器系统-自动榴弹发射器和四联装Kornet ATGM发射器系统，取代了BMP-2上的Konkurs。这辆车将可用于RGF机械化部队。
-  <br>
+  
 * BMP-3M IFV：BMP系列的现代升级版，使用100毫米加农炮，30毫米自动加农炮，同轴机枪和堡垒反坦克导弹。该车辆将可用于RGF机械化和两栖突击部队。
-  <br>
+  
 * T-90A坦克：取代T-72系列的第三代主战坦克。它将使用类似于游戏中已有的T-72B3的武器，但将升级正面和侧面船体装甲以及正面炮塔装甲。我们计划在未来进一步将这款车与T-72B3区分开来。这辆车将可用于RGF装甲、联合武器、摩托化和轻步兵部队。
-  <br>
+  
 * BMP-1AM IFV：这是一种升级的BMP-1变体，使用与BTR-82A相同的30毫米自动加农炮炮塔。它将取代RGF装甲部队上的BMP-2，并出现在机械化部队上。
 
   ![](https://clan.akamai.steamstatic.com/images/10141695/5d39cfe96c3db1e14668ebc0fce8c460f43b17b6.jpg)
-  <br>
-
-
+  
 
 INS 和 IMF 的新功能
 
-* 为国际货币基金组织和INS派系的轻步兵和摩托化部队增加了一辆装有Kornet ATGM的技术卡车。<br>
-
-
+* 为国际货币基金组织和INS派系的轻步兵和摩托化部队增加了一辆装有Kornet ATGM的技术卡车。
 
 VDV新增功能
 
-* 将RGO Impact Frag Grenade作为标准破片手榴弹添加到VDV阵营中。<br>
-
-
+* 将RGO Impact Frag Grenade作为标准破片手榴弹添加到VDV阵营中。
 
 CAF 的新功能
 
-* 更新了 CAF TAPV，配备了正宗的武器、40 毫米自动榴弹发射器 （C16） 和 7.62 机枪 （C6） 组合炮塔。这将是现在唯一的 TAPV 变体。注意：Mk19 是德国 GMG 自动榴弹发射器的占位符，应用于 C16。<br>
-
-
+* 更新了 CAF TAPV，配备了正宗的武器、40 毫米自动榴弹发射器 （C16） 和 7.62 机枪 （C6） 组合炮塔。这将是现在唯一的 TAPV 变体。注意：Mk19 是德国 GMG 自动榴弹发射器的占位符，应用于 C16。
 
 反坦克导弹大修我们重新设计了现有的反坦克导弹 （ATGM），以扩展其功能、引入各种细微差别并更新其视觉效果。
 
@@ -2883,235 +2675,200 @@ ATGM 现在根据其制导方法具有各种优势和劣势。例如，线导反
 新的加载屏幕我们添加了新的加载屏幕，其中包含游戏技巧。
 
 ![](https://clan.akamai.steamstatic.com/images/10141695/b66dbfc795d93561952f5bf3bd381fd8500872eb.png)
-<br>
 
-* 在启动过程中添加了“癫痫发作警告”屏幕。<br>
-* 对车辆恢复时间进行了多项生活质量改进。其目的是减少重置车辆时的挫败感，因为当前的车辆操控实现和物理系统可能会导致一些狂野的车辆行为。<br>
-* 传送恢复的基础时间从 30 秒减少到 20 秒。<br>
-* 将恢复车辆旋转增加的时间减少了 90%，现在 180 度旋转应该只会增加 4 秒的基本恢复时间，低于 40 秒。<br>
-* 将连续恢复尝试获得速度加成的时间窗口从 15 秒增加到 30 秒。<br>
-* 连续恢复尝试的速度加成提高44%。有了新的基本恢复时间，连续尝试恢复车辆现在应该需要 3 秒，低于 8 秒。<br>
-* 从所有常规装甲单位中移除了直升机，但VDV除外，VDV将继续拥有直升机，但生成延迟30分钟。其目的是在选择常规装甲部队时提供更有意义的权衡，这将是由于整个回合持续时间缺乏空中机动后勤。<br>
-* 改进了斗牛步枪（EF88、L85A2、QBZ95-1）的枪战特性。目的是让斗牛武器在战斗中感觉更好、更有效。<br>
-* 现在，当保持稳定瞄准时，清除瞄准器会取消，即使摇摆太高而无法看穿瞄准具。<br>
-* 在“游戏”设置下添加了新的辅助功能设置 - “禁用武器模型模糊”。此设置可防止景深效果在不瞄准瞄准具时模糊您的武器，有助于防止眼睛疲劳。<br>
-* 将所有使用 C79A2 放大镜 （CAF C7A2/C8A3/C9A2） 的武器设置为默认为 100m 从 200m 零。虽然 200 米是 C79A2 光学器件的真实射程，因为 100 米和 200 米零之间的差异在现实生活中可以忽略不计，但我们的射弹上存在额外的重力，这对于在瞄准 100 米目标时可能经常射得太高的玩家来说是一个可用性问题。<br>
-* 降低了TLF SOR-109T SMG的后坐力。目的是使这种武器在短距离内感觉更好、更有效。<br>
-* 部署两脚架后武器稳定时间略有增加。<br>
-* 将INS和IMF装甲/非装甲技术和乌拉尔合并为“技术HMG”、“技术自行火炮”、“技术Logi”、“技术运输”、“乌拉尔Logi”和“乌拉尔运输”。不同的变体将随机生成。<br>
-* 将 ADF PMV Mag58 和 PMV Mag58 x3 合并为“PMV”。不同的变体将随机生成。<br>
-* 将美国海军陆战队M1151装甲和非装甲变体合并为“M1151 M2”、“M1151 M240”和“M1151 Mk19”。每个的无装甲和装甲变体都会随机生成。<br>
-* 淡化了 PLANMC 角色制服上蓝色的亮度。<br>
-* 调整了某些防御工事部署的最大数量，对常规派系有上限或无限制。这里的目的是减少非支援常规单位的防御潜力。<br>
-* 常规支援单位每个 FOB 最多可以有六个掩体和四个观察塔。<br>
-* 所有其他常规单位每个 FOB 最多可以有四个掩体和两个观察塔。<br>
-* 在常规阵营的轻步兵和空中突击部队中，重型反坦克角色的全队可用性从2个增加到4个。单个小队中可以有多少 HAT 角色的限制没有改变。其目的是通过提供更多的反车辆步兵角色来弥补这些单位中重型车辆的不足。注意：随着这一变化，TLF空中突击部队现在可以使用M2卡尔·古斯塔夫（Carl Gustav）访问HAT角色。<br>
-* 为服务器所有者添加了投票设置，允许他们在投票选项中仅显示一次唯一地图（例如，如果此选项位于费卢杰 AAS v1 上，而费卢杰入侵 v1 不会同时显示在投票选项中）。<br>
-* 为服务器所有者添加了投票设置，限制了投票选项中可以显示的每种游戏模式的选项数量（例如，只能显示 1 个入侵层、1 个 AAS 层，但最多显示 4 个 RAAS 层）。<br>
-* 为服务器所有者添加了投票设置，以仅触发地图的投票，而不触发派系或单位的投票。单位将从该层的所有可用单位中随机选择，并将考虑派系和单位跳过设置以及对称匹配设置。<br>
-* 添加了用于启用和禁用投票的管理员命令。<br>
-* 在单位预览屏幕中添加了一个指示器，当所选地图上的指挥官技能、船只或直升机等游戏元素不可用时，该指示器会通知玩家。<br>
-* 为清晰起见，调整了投票屏幕上的文本。<br>
-* 在结果屏幕中添加了用于派系投票和特效的音乐。<br>
-* 在放置模式下轮换可展开对象的默认键绑定现在是 Q 和 E（以前是向左键和右键）。<br>
-* 现在支持英特尔 XeSS 升级，并作为选项显示在图形设置菜单上<br>
-* 更新了 DLSS 插件设置。<br>
-* 在单位信息屏幕上的 INS 和 IMF 派系的描述中添加了 INS 和 IMF 派系的特殊特征。<br>
-* VDV装甲的T72B3数量从2个减少到1个。这里的目的是减少VDV装甲部队的整体火力，该部队除了两辆Sprut-SDM1坦克歼击车外，以前还有两辆T-72B3坦克。<br>
-* 将美国海军陆战队装甲上的 LAV-25 IFV 数量从 2 辆减少到 1 辆。这里的目的是减少美国海军陆战队装甲部队的整体机动火力，该部队以前除了两辆 M25A1 坦克外还有两辆 LAV-1。<br>
-
-
+* 在启动过程中添加了“癫痫发作警告”屏幕。
+* 对车辆恢复时间进行了多项生活质量改进。其目的是减少重置车辆时的挫败感，因为当前的车辆操控实现和物理系统可能会导致一些狂野的车辆行为。
+* 传送恢复的基础时间从 30 秒减少到 20 秒。
+* 将恢复车辆旋转增加的时间减少了 90%，现在 180 度旋转应该只会增加 4 秒的基本恢复时间，低于 40 秒。
+* 将连续恢复尝试获得速度加成的时间窗口从 15 秒增加到 30 秒。
+* 连续恢复尝试的速度加成提高44%。有了新的基本恢复时间，连续尝试恢复车辆现在应该需要 3 秒，低于 8 秒。
+* 从所有常规装甲单位中移除了直升机，但VDV除外，VDV将继续拥有直升机，但生成延迟30分钟。其目的是在选择常规装甲部队时提供更有意义的权衡，这将是由于整个回合持续时间缺乏空中机动后勤。
+* 改进了斗牛步枪（EF88、L85A2、QBZ95-1）的枪战特性。目的是让斗牛武器在战斗中感觉更好、更有效。
+* 现在，当保持稳定瞄准时，清除瞄准器会取消，即使摇摆太高而无法看穿瞄准具。
+* 在“游戏”设置下添加了新的辅助功能设置 - “禁用武器模型模糊”。此设置可防止景深效果在不瞄准瞄准具时模糊您的武器，有助于防止眼睛疲劳。
+* 将所有使用 C79A2 放大镜 （CAF C7A2/C8A3/C9A2） 的武器设置为默认为 100m 从 200m 零。虽然 200 米是 C79A2 光学器件的真实射程，因为 100 米和 200 米零之间的差异在现实生活中可以忽略不计，但我们的射弹上存在额外的重力，这对于在瞄准 100 米目标时可能经常射得太高的玩家来说是一个可用性问题。
+* 降低了TLF SOR-109T SMG的后坐力。目的是使这种武器在短距离内感觉更好、更有效。
+* 部署两脚架后武器稳定时间略有增加。
+* 将INS和IMF装甲/非装甲技术和乌拉尔合并为“技术HMG”、“技术自行火炮”、“技术Logi”、“技术运输”、“乌拉尔Logi”和“乌拉尔运输”。不同的变体将随机生成。
+* 将 ADF PMV Mag58 和 PMV Mag58 x3 合并为“PMV”。不同的变体将随机生成。
+* 将美国海军陆战队M1151装甲和非装甲变体合并为“M1151 M2”、“M1151 M240”和“M1151 Mk19”。每个的无装甲和装甲变体都会随机生成。
+* 淡化了 PLANMC 角色制服上蓝色的亮度。
+* 调整了某些防御工事部署的最大数量，对常规派系有上限或无限制。这里的目的是减少非支援常规单位的防御潜力。
+* 常规支援单位每个 FOB 最多可以有六个掩体和四个观察塔。
+* 所有其他常规单位每个 FOB 最多可以有四个掩体和两个观察塔。
+* 在常规阵营的轻步兵和空中突击部队中，重型反坦克角色的全队可用性从2个增加到4个。单个小队中可以有多少 HAT 角色的限制没有改变。其目的是通过提供更多的反车辆步兵角色来弥补这些单位中重型车辆的不足。注意：随着这一变化，TLF空中突击部队现在可以使用M2卡尔·古斯塔夫（Carl Gustav）访问HAT角色。
+* 为服务器所有者添加了投票设置，允许他们在投票选项中仅显示一次唯一地图（例如，如果此选项位于费卢杰 AAS v1 上，而费卢杰入侵 v1 不会同时显示在投票选项中）。
+* 为服务器所有者添加了投票设置，限制了投票选项中可以显示的每种游戏模式的选项数量（例如，只能显示 1 个入侵层、1 个 AAS 层，但最多显示 4 个 RAAS 层）。
+* 为服务器所有者添加了投票设置，以仅触发地图的投票，而不触发派系或单位的投票。单位将从该层的所有可用单位中随机选择，并将考虑派系和单位跳过设置以及对称匹配设置。
+* 添加了用于启用和禁用投票的管理员命令。
+* 在单位预览屏幕中添加了一个指示器，当所选地图上的指挥官技能、船只或直升机等游戏元素不可用时，该指示器会通知玩家。
+* 为清晰起见，调整了投票屏幕上的文本。
+* 在结果屏幕中添加了用于派系投票和特效的音乐。
+* 在放置模式下轮换可展开对象的默认键绑定现在是 Q 和 E（以前是向左键和右键）。
+* 现在支持英特尔 XeSS 升级，并作为选项显示在图形设置菜单上
+* 更新了 DLSS 插件设置。
+* 在单位信息屏幕上的 INS 和 IMF 派系的描述中添加了 INS 和 IMF 派系的特殊特征。
+* VDV装甲的T72B3数量从2个减少到1个。这里的目的是减少VDV装甲部队的整体火力，该部队除了两辆Sprut-SDM1坦克歼击车外，以前还有两辆T-72B3坦克。
+* 将美国海军陆战队装甲上的 LAV-25 IFV 数量从 2 辆减少到 1 辆。这里的目的是减少美国海军陆战队装甲部队的整体机动火力，该部队以前除了两辆 M25A1 坦克外还有两辆 LAV-1。
 
 ![](https://clan.akamai.steamstatic.com/images/10141695/8edf86b922e499171ca8bc0def49e0aa41873030.png)
 
 🔨常规 Bug 修复
 
-* 修复了服务器浏览器的一个错误，该错误显示所有服务器，即使使用了语言、游戏风格、体验或地图旋转过滤器也是如此。<br>
-* 修复了服务器浏览器的一个错误，该错误可能导致游戏在刷新服务器列表时冻结 2 秒。<br>
-* 修复了播放启动视频后可能发生的客户端崩溃问题。<br>
-* 修复了一个允许玩家在投票期间投票两次的错误。<br>
-* 修复了地图图层设置不正确时可能导致玩家卡在投票流程中的漏洞。<br>
-* 修复了与使用迫击炮相关的客户端崩溃问题。<br>
-* 降低了RGF BMP2 IFV加农炮的第三人称音量。<br>
-* 修复了一个错误，该错误导致直升机在使用传送命令重置后表现异常。<br>
-* 模组现在应该在服务器浏览器中正确显示详细信息。<br>
-* 修复了一个允许玩家缩短 VDV AK-12 的重新加载动画的错误。<br>
-* 修复了一个错误，即如果玩家在通话时失去与服务器的连接，VOIP UI可能会中断。<br>
-* 更正了解放军 DTC041A-30 自动加农炮的归零。<br>
-* CAF HAT 角色现在拥有正确的弹药。<br>
-* 修复了玩家在死亡后点击地图时会中断VOIP传输的错误。<br>
-* 为USMC AAVP APC的侧船体添加了缺失的RPG命中效果。<br>
-* 修复了一个错误，如果玩家在蹲下-站立过渡期间或俯卧时按下空格键，可能会中断 ADS。<br>
-* 修复了 BAF 背包的视觉问题。<br>
-* 修复了一个错误，该错误导致放置和车载反坦克武器的回射被抵消。<br>
-* 修复了解放军士兵背心的视觉问题。<br>
-* 修复了教程中的一个错误，即角色可能会卡在“T 姿势”中。<br>
-* 修复了一个错误，该错误允许 TLF 派系在小队中拥有 2 个 AR MG3 铁杆角色，而不是预期的 1 个。<br>
-* 修复了阻止 IMF M2 HMG（带盾牌）位置在 ADS 期间缩放的 bug。<br>
-* 调整了入侵 POI 在交互式图层地图详细信息屏幕上的编号方式，使其更有意义。<br>
-* 修复了 Quad Bike 在水中如何进行电子制动的视觉错误。<br>
-* 修复了自定义浏览器的 bug，该 bug 可能导致筛选结果中出现空行。<br>
-* 修复了有时导致团队选择屏幕不必要刷新的 bug。<br>
-* 修复了 CAF LAV III 轮式 APC 上 C6A1 FLEX MG 旋转不一致的问题。<br>
-* 在投票界面中添加了缺失的两栖突击单位图标。<br>
-* 修复了一个 bug，该错误可能会阻止团队投票，而是向他们展示另一个团队的投票结果。<br>
-* 修复了一个 bug，即在投票阶段使用 AdminRestartMatch 命令可能会导致下一轮投票阶段出现问题。<br>
-* 修复了一个错误，该错误导致玩家的腿在离开炮位后改变位置。<br>
-* 修复了允许 USA/USMC 四轮摩托车驶过其他一些车辆的碰撞问题。<br>
-* 修复了 USMC AAVP7A1 APC 的视觉错误。<br>
-* 修复了带有枪管下榴弹发射器的美国 M4 M203 的视觉错误。<br>
-* 修复了 M1151 地图图标将图像用于敞篷吉普车而不是 AT 吉普车的错误。<br>
-* 修复了 TLF 士兵手套的一个小视觉问题。<br>
-* 修复了 KNT-76 的动画错误，该错误可能导致使用它的士兵在其他玩家看来很奇怪。<br>
-* 修复了船员的维修套件在播放“加入我”手势时导致剪辑的错误。<br>
-* 修复了 NLAW 导致守望先锋手势看起来很奇怪的错误。<br>
-* 修复了 VDV BMD-4M 和 PLA ZBD04A IFV 上的枪口闪光 VFX 的错误。<br>
-* 修复了一个错误，该错误导致玩家在BAF FV107履带式ARV上操作炮塔时无法显示在小地图上。<br>
-* 修复了在部署两脚架的情况下使用武器时使用自由视图的错误。<br>
-* 修复了玩家坐在后排时导致玩家夹穿 PLA CSK131 吉普车墙壁的错误。<br>
-* 修复了使用 PLA QJY88 MG 的玩家闲置第三人称士兵动画的错误。<br>
-* 修复了导致 PLA ZBL08 IFV 上的炮塔支架根据与战车的距离而改变颜色的错误。<br>
-* 修复了一个错误，该错误导致士兵的手臂在使用 TLF MG3 MMG 瞄准瞄准具时射击时夹穿弹药箱。<br>
-* 修复了一些与“团队选择屏幕”和“模式信息”屏幕相关的错误，这些屏幕在不应该出现时出现。<br>
-* 修复了团队选择屏幕的一个错误，该错误导致地图信息弹出窗口以宽分辨率显示为拉伸。<br>
-* 修复了使用 PLA 和 PLANMC PF98 HAT 角色的士兵背上火箭弹的视觉问题。<br>
-* 修复了导致美国/美国海军陆战队四轮摩托车在前携带架上的弹药箱被击中时受到损坏的错误。<br>
-* 修复了一个错误，该错误导致投票屏幕上的可用单位列表中缺少 Inbelgents 首字母缩略词。<br>
-* 修复了多个地图图层在其信息屏幕上将“无”作为照明图层的 bug<br>
-* 修复了教程中士兵动画的错误。<br>
-* 修复了 TLF MPT-76 UGL 的检查动画的一个错误。<br>
-* 美国海军陆战队联合武器（大型设置）部队现在有一架M939 Logi和两架AAVC logis。<br>
-* 修复了可能导致 Flex 表情期间剪裁的 bug。<br>
-* 修复了一个错误，该错误导致TLF MG3机枪手拥有一副苏联野战双筒望远镜。<br>
-* 修复了一个 bug，该 bug 导致将鼠标悬停在角色选择屏幕中的套件上时显示错误的套件信息。<br>
-* 修复了一个 bug，该 bug 导致在分配新的火力队线索时删除 Fireteam 地图标记。<br>
-* 修复了可以通过 Admin Cam 工具禁用投票要求但无法重新启用的 bug。<br>
-* 修复了一个错误，该错误阻止了 IMF 渗透者工具包角色计入 3 个可用的火力支援角色槽。<br>
-* 修复了导致小队地图标记在晋升为指挥官时被移除的错误。<br>
-* 修复了一个错误，该错误导致以俯卧姿势投掷在玩家上方的手榴弹会从他们的角色模型上弹开。<br>
-* 修复了一个错误，该错误使修改后的派系在修改后的服务器上的投票过程中无法正常工作。<br>
-
-
+* 修复了服务器浏览器的一个错误，该错误显示所有服务器，即使使用了语言、游戏风格、体验或地图旋转过滤器也是如此。
+* 修复了服务器浏览器的一个错误，该错误可能导致游戏在刷新服务器列表时冻结 2 秒。
+* 修复了播放启动视频后可能发生的客户端崩溃问题。
+* 修复了一个允许玩家在投票期间投票两次的错误。
+* 修复了地图图层设置不正确时可能导致玩家卡在投票流程中的漏洞。
+* 修复了与使用迫击炮相关的客户端崩溃问题。
+* 降低了RGF BMP2 IFV加农炮的第三人称音量。
+* 修复了一个错误，该错误导致直升机在使用传送命令重置后表现异常。
+* 模组现在应该在服务器浏览器中正确显示详细信息。
+* 修复了一个允许玩家缩短 VDV AK-12 的重新加载动画的错误。
+* 修复了一个错误，即如果玩家在通话时失去与服务器的连接，VOIP UI可能会中断。
+* 更正了解放军 DTC041A-30 自动加农炮的归零。
+* CAF HAT 角色现在拥有正确的弹药。
+* 修复了玩家在死亡后点击地图时会中断VOIP传输的错误。
+* 为USMC AAVP APC的侧船体添加了缺失的RPG命中效果。
+* 修复了一个错误，如果玩家在蹲下-站立过渡期间或俯卧时按下空格键，可能会中断 ADS。
+* 修复了 BAF 背包的视觉问题。
+* 修复了一个错误，该错误导致放置和车载反坦克武器的回射被抵消。
+* 修复了解放军士兵背心的视觉问题。
+* 修复了教程中的一个错误，即角色可能会卡在“T 姿势”中。
+* 修复了一个错误，该错误允许 TLF 派系在小队中拥有 2 个 AR MG3 铁杆角色，而不是预期的 1 个。
+* 修复了阻止 IMF M2 HMG（带盾牌）位置在 ADS 期间缩放的 bug。
+* 调整了入侵 POI 在交互式图层地图详细信息屏幕上的编号方式，使其更有意义。
+* 修复了 Quad Bike 在水中如何进行电子制动的视觉错误。
+* 修复了自定义浏览器的 bug，该 bug 可能导致筛选结果中出现空行。
+* 修复了有时导致团队选择屏幕不必要刷新的 bug。
+* 修复了 CAF LAV III 轮式 APC 上 C6A1 FLEX MG 旋转不一致的问题。
+* 在投票界面中添加了缺失的两栖突击单位图标。
+* 修复了一个 bug，该错误可能会阻止团队投票，而是向他们展示另一个团队的投票结果。
+* 修复了一个 bug，即在投票阶段使用 AdminRestartMatch 命令可能会导致下一轮投票阶段出现问题。
+* 修复了一个错误，该错误导致玩家的腿在离开炮位后改变位置。
+* 修复了允许 USA/USMC 四轮摩托车驶过其他一些车辆的碰撞问题。
+* 修复了 USMC AAVP7A1 APC 的视觉错误。
+* 修复了带有枪管下榴弹发射器的美国 M4 M203 的视觉错误。
+* 修复了 M1151 地图图标将图像用于敞篷吉普车而不是 AT 吉普车的错误。
+* 修复了 TLF 士兵手套的一个小视觉问题。
+* 修复了 KNT-76 的动画错误，该错误可能导致使用它的士兵在其他玩家看来很奇怪。
+* 修复了船员的维修套件在播放“加入我”手势时导致剪辑的错误。
+* 修复了 NLAW 导致守望先锋手势看起来很奇怪的错误。
+* 修复了 VDV BMD-4M 和 PLA ZBD04A IFV 上的枪口闪光 VFX 的错误。
+* 修复了一个错误，该错误导致玩家在BAF FV107履带式ARV上操作炮塔时无法显示在小地图上。
+* 修复了在部署两脚架的情况下使用武器时使用自由视图的错误。
+* 修复了玩家坐在后排时导致玩家夹穿 PLA CSK131 吉普车墙壁的错误。
+* 修复了使用 PLA QJY88 MG 的玩家闲置第三人称士兵动画的错误。
+* 修复了导致 PLA ZBL08 IFV 上的炮塔支架根据与战车的距离而改变颜色的错误。
+* 修复了一个错误，该错误导致士兵的手臂在使用 TLF MG3 MMG 瞄准瞄准具时射击时夹穿弹药箱。
+* 修复了一些与“团队选择屏幕”和“模式信息”屏幕相关的错误，这些屏幕在不应该出现时出现。
+* 修复了团队选择屏幕的一个错误，该错误导致地图信息弹出窗口以宽分辨率显示为拉伸。
+* 修复了使用 PLA 和 PLANMC PF98 HAT 角色的士兵背上火箭弹的视觉问题。
+* 修复了导致美国/美国海军陆战队四轮摩托车在前携带架上的弹药箱被击中时受到损坏的错误。
+* 修复了一个错误，该错误导致投票屏幕上的可用单位列表中缺少 Inbelgents 首字母缩略词。
+* 修复了多个地图图层在其信息屏幕上将“无”作为照明图层的 bug
+* 修复了教程中士兵动画的错误。
+* 修复了 TLF MPT-76 UGL 的检查动画的一个错误。
+* 美国海军陆战队联合武器（大型设置）部队现在有一架M939 Logi和两架AAVC logis。
+* 修复了可能导致 Flex 表情期间剪裁的 bug。
+* 修复了一个错误，该错误导致TLF MG3机枪手拥有一副苏联野战双筒望远镜。
+* 修复了一个 bug，该 bug 导致将鼠标悬停在角色选择屏幕中的套件上时显示错误的套件信息。
+* 修复了一个 bug，该 bug 导致在分配新的火力队线索时删除 Fireteam 地图标记。
+* 修复了可以通过 Admin Cam 工具禁用投票要求但无法重新启用的 bug。
+* 修复了一个错误，该错误阻止了 IMF 渗透者工具包角色计入 3 个可用的火力支援角色槽。
+* 修复了导致小队地图标记在晋升为指挥官时被移除的错误。
+* 修复了一个错误，该错误导致以俯卧姿势投掷在玩家上方的手榴弹会从他们的角色模型上弹开。
+* 修复了一个错误，该错误使修改后的派系在修改后的服务器上的投票过程中无法正常工作。
 
 地图更新和错误修复常规
 
-* 将所有大型地图 RAAS 图层标准化为具有 7 个标志布局。较小的地图（Chora、Fool's Road、Kokan、Mestia、Sumari 和 Logar）仍然有 5 或 6 个旗帜图层。其目的是在更大的地图上标准化RAAS体验，并使我们能够对RAAS游戏的回合进行更准确的分析，从而为未来的迭代提供信息。对现有游戏图层和新图层的迭代将在未来的更新中继续进行。<br>
-* 修复了在入侵图层上捕获目标时导致播放错误语音台词的错误。<br>
-
-
+* 将所有大型地图 RAAS 图层标准化为具有 7 个标志布局。较小的地图（Chora、Fool's Road、Kokan、Mestia、Sumari 和 Logar）仍然有 5 或 6 个旗帜图层。其目的是在更大的地图上标准化RAAS体验，并使我们能够对RAAS游戏的回合进行更准确的分析，从而为未来的迭代提供信息。对现有游戏图层和新图层的迭代将在未来的更新中继续进行。
+* 修复了在入侵图层上捕获目标时导致播放错误语音台词的错误。
 
 巴士拉
 
-* Invasion v1 - 修复了一个错误，该错误消除了 BAF 联合武器 FV510 的初始 10 分钟延迟。<br>
-* Invasion v1 - 修复了一个错误，该错误导致 BAF 联合武器单位拥有比应有的更多的 FV510。该装置现在有一台 FV510 和一台 FV510 UA。<br>
-* Invasion v2 - 修复了部分导致船只维修站漂浮的错误。<br>
-* AAS v1 - 修复了 BAF 卡车有时会生成翻转的错误。<br>
-
-
+* Invasion v1 - 修复了一个错误，该错误消除了 BAF 联合武器 FV510 的初始 10 分钟延迟。
+* Invasion v1 - 修复了一个错误，该错误导致 BAF 联合武器单位拥有比应有的更多的 FV510。该装置现在有一台 FV510 和一台 FV510 UA。
+* Invasion v2 - 修复了部分导致船只维修站漂浮的错误。
+* AAS v1 - 修复了 BAF 卡车有时会生成翻转的错误。
 
 费卢杰
 
-* TC v1 - 修复了两支队伍的 MBT 刷怪器。<br>
-* TC v1 - 修复了主基地 Team 1 弹药箱的一个错误。<br>
-
-
+* TC v1 - 修复了两支队伍的 MBT 刷怪器。
+* TC v1 - 修复了主基地 Team 1 弹药箱的一个错误。
 
 戈罗多克
 
-* Destruction v1 - 修复了阻止 Team 1 的 MBT 生成的问题。<br>
-
-
+* Destruction v1 - 修复了阻止 Team 1 的 MBT 生成的问题。
 
 哈朱
 
-* AAS v1 - 修复了一个允许玩家隐藏在特定岩石内的错误<br>
-* 入侵 v2 + RAAS v1 - 主基地的船只现在可以使用维修站。<br>
-* 入侵 v1 - 修复了 IMF 明斯克摩托车未在主基地生成的错误。<br>
-
-
+* AAS v1 - 修复了一个允许玩家隐藏在特定岩石内的错误
+* 入侵 v2 + RAAS v1 - 主基地的船只现在可以使用维修站。
+* 入侵 v1 - 修复了 IMF 明斯克摩托车未在主基地生成的错误。
 
 马尼库阿根
 
-* 添加了新的 Invasion 层 Invasion v2。<br>
-
-
+* 添加了新的 Invasion 层 Invasion v2。
 
 卡姆德什高地
 
-* AAS v1、RAAS v1 - 直升机停机坪现在可以在主要基地使用。<br>
-* 分裂者 v1 - 现在可以使用第 1 小队基地的直升机停机坪。<br>
-
-
+* AAS v1、RAAS v1 - 直升机停机坪现在可以在主要基地使用。
+* 分裂者 v1 - 现在可以使用第 1 小队基地的直升机停机坪。
 
 Kohat Toi（科哈特托伊酒店）
 
-* 添加了两个新层：RAAS v2 和 Invasion v2。<br>
-
-
+* 添加了两个新层：RAAS v2 和 Invasion v2。
 
 三仙群岛
 
 * AAS v2 - 修复了导致弹药箱在直升机停机坪顶部生成的错误
-  <br>
+  
 
 Mod SDK 更新
 
-* 更新了 mod SDK 到 v8.0。<br>
-* 将 mod 版本控制更新到 v8.0。这意味着所有模组都需要使用 v7.2 SDK 重新烹饪才能与游戏的更新版本兼容。<br>
-* 修复了可能导致模组制作者无法将模组上传到 Steam 创意工坊的问题<br>
-* 添加了新的 ModdedAssetValidator。此验证器将针对 mod 文件夹中的任何资源运行，检查它是否引用了 ModSDK 中包含但未包含在已发布游戏中的任何原版资源。这在之前已经验证过，但在烹饪时。现在，模组制作者在引用未发货的资产时会更快地发现。此验证器还引入了对引用的子级别和插件资产的覆盖率，这些资产之前未进行验证。<br>
-* 对于要制作的模组，其所有资产现在都必须通过资产验证（抛出零验证错误）。<br>
-* 修复了因区块设置中未包含的派系和图层资产而引发的验证错误。<br>
-* 修复了引用 Black Coast 和 Harju 等插件的资产引发的验证错误。<br>
-* 修复了所有 SQRestriction\_Count 数据资产引发的验证错误。<br>
-* 引入了派系和图层创建工具，在为小队制作新模组时为您处理设置！<br>
-
-
+* 更新了 mod SDK 到 v8.0。
+* 将 mod 版本控制更新到 v8.0。这意味着所有模组都需要使用 v7.2 SDK 重新烹饪才能与游戏的更新版本兼容。
+* 修复了可能导致模组制作者无法将模组上传到 Steam 创意工坊的问题
+* 添加了新的 ModdedAssetValidator。此验证器将针对 mod 文件夹中的任何资源运行，检查它是否引用了 ModSDK 中包含但未包含在已发布游戏中的任何原版资源。这在之前已经验证过，但在烹饪时。现在，模组制作者在引用未发货的资产时会更快地发现。此验证器还引入了对引用的子级别和插件资产的覆盖率，这些资产之前未进行验证。
+* 对于要制作的模组，其所有资产现在都必须通过资产验证（抛出零验证错误）。
+* 修复了因区块设置中未包含的派系和图层资产而引发的验证错误。
+* 修复了引用 Black Coast 和 Harju 等插件的资产引发的验证错误。
+* 修复了所有 SQRestriction\_Count 数据资产引发的验证错误。
+* 引入了派系和图层创建工具，在为小队制作新模组时为您处理设置！
 
 已知问题
 
-* 我们注意到帧速率可能会影响武器操控的问题。我们的团队正在努力寻找解决方案，当我们接近修复时，我们将更新社区。<br>
-* 在离开战车或重新装填战车武器时，炮台和某些战车可能偶尔会出现摄像头视角问题。<br>
-* BMP-1 IFV - 9M14P Malyutka 的导丝在射击后可能会弹出车辆并不稳定地移动。<br>
-* 新的RGO冲击手榴弹可能会在玩家被击倒时引爆。<br>
-
-
+* 我们注意到帧速率可能会影响武器操控的问题。我们的团队正在努力寻找解决方案，当我们接近修复时，我们将更新社区。
+* 在离开战车或重新装填战车武器时，炮台和某些战车可能偶尔会出现摄像头视角问题。
+* BMP-1 IFV - 9M14P Malyutka 的导丝在射击后可能会弹出车辆并不稳定地移动。
+* 新的RGO冲击手榴弹可能会在玩家被击倒时引爆。
 
 我们对 8.0 Squad 发行说明的汇报到此结束！请继续关注我们的 Steam 论坛，了解我们即将推出的所有通讯！
 
-</details>
-
-<details>
-
-<summary>2024/5/7 V7.3.1 更新日志</summary>
+## 2024/5/7 V7.3.1 更新日志
 
 * 修复了在EOS制裁中断期间阻止客户端连接到服务器的问题。
 * 修复了玩家在特定条件下冲刺时可能会 ADS 的问题。
 
-</details>
-
-<details>
-
-<summary>2024/4/17 V7.3 更新日志</summary>
+## 2024/4/17 V7.3 更新日志
 
 ![](<../.gitbook/assets/image (37).png>)
 
 🔨 常规 Bug 修复
 
-* 🎖️ 当旋翼叶片断裂并且飞行员在直升机停止移动之前离开直升机时，固定的直升机漂浮在客户身上。<br>
-* 🎖️ 修复了如果其他玩家在与VOIP通话时断开连接时出现红色VOIP图标的问题。<br>
-* 🎖️ 美国M1128 MGS炮塔现在可以正确地将伤害传递给战车的主HP。<br>
-* 🎖️ 修复了一个错误，该错误可能会阻止美国 M1128 MGS 在其弹药架被摧毁时烧毁和引爆。<br>
-* 🎖️ 修复了几个可能导致表情音频无法播放或与表情不同步的错误。<br>
-* 🎖️ 修复了导致武器皮肤在商店中看起来比实际更暗的照明问题。<br>
-* 🎖️ 修复了“FactionSkipRounds”设置无法可靠地导致先前选择的派系在下一轮投票中被跳过的问题（对于团队 1 会跳过它，但对于团队 2 则不会跳过它，因为上一轮的团队 1 玩家现在已经转移到了团队 2）。注意：“FactionSkipRounds”设置还不能正确应用于下一轮投票中被跳过的单位，只适用于派系。<br>
-
-
+* 🎖️ 当旋翼叶片断裂并且飞行员在直升机停止移动之前离开直升机时，固定的直升机漂浮在客户身上。
+* 🎖️ 修复了如果其他玩家在与VOIP通话时断开连接时出现红色VOIP图标的问题。
+* 🎖️ 美国M1128 MGS炮塔现在可以正确地将伤害传递给战车的主HP。
+* 🎖️ 修复了一个错误，该错误可能会阻止美国 M1128 MGS 在其弹药架被摧毁时烧毁和引爆。
+* 🎖️ 修复了几个可能导致表情音频无法播放或与表情不同步的错误。
+* 🎖️ 修复了导致武器皮肤在商店中看起来比实际更暗的照明问题。
+* 🎖️ 修复了“FactionSkipRounds”设置无法可靠地导致先前选择的派系在下一轮投票中被跳过的问题（对于团队 1 会跳过它，但对于团队 2 则不会跳过它，因为上一轮的团队 1 玩家现在已经转移到了团队 2）。注意：“FactionSkipRounds”设置还不能正确应用于下一轮投票中被跳过的单位，只适用于派系。
 
 Mod SDK 更新
 
 * 🛠️添加了用于可视化蓝图继承结构的工具：单击“填充”以在易于导航的“树”视图中绘制蓝图继承层次结构。
-  注意：过滤器选项可能不可靠，因此您有时可能需要关闭并重新启动该工具才能刷新它。<br>
+  注意：过滤器选项可能不可靠，因此您有时可能需要关闭并重新启动该工具才能刷新它。
 * 🛠️ 完全重制了步兵的继承结构 武器静态信息，以便于调整和调整：大多数文件已重新设置父级，许多文件已被重命名或删除。虽然我们保留了重定向器以最大程度地减少可能从这些配置继承的 mod 的问题，但您的某些配置可能已经丢失了对其父级的引用。
   现在的标准继承模式是： - 通用武器静态信息
   - - 武器父级- - - - Ironsights 变体
@@ -3119,22 +2876,15 @@ Mod SDK 更新
   - - - 反射瞄准器变体 - - -
   - 反射式前握把 - -
 
-
-  我们建议您在模组中遵循此模式。我们还建议您的武器的父静态信息继承自“通用武器静态信息”，而不是从现有的小队枪支配置中继承，以减少对基础游戏的更改破坏您的模组的机会。<br>
+  我们建议您在模组中遵循此模式。我们还建议您的武器的父静态信息继承自“通用武器静态信息”，而不是从现有的小队枪支配置中继承，以减少对基础游戏的更改破坏您的模组的机会。
 * 🛠️ 添加了一个脚本，以帮助重新设置蓝图的父级，而不会有数据丢失的风险。它确保在重新设置父级后文件中的属性不会更改，即使它们是在旧的父级中定义的：要使用脚本，请打开控制台并输入“ODK.ReparentBlueprintLossless \[要重新设置父级的文件路径] \[要重新设置父级的文件路径]“
-  提示：在内容浏览器中选择一个文件，然后按下 Ctrl-C 拷贝文件路径。您可以将其粘贴到控制台中，而无需担心语法问题。<br>
-
-
+  提示：在内容浏览器中选择一个文件，然后按下 Ctrl-C 拷贝文件路径。您可以将其粘贴到控制台中，而无需担心语法问题。
 
 已知问题
 
-* 在两栖入侵图层上，单位投票屏幕中显示的某些战车生成延迟可能不准确。具体来说，如果一个单位开始时没有坦克的延迟，但两栖主产卵点（岛屿或运输舰）上没有坦克生成器，则在捕获目标后确保前方陆地生成基地之前，坦克将不可用。这不会反映在投票期间显示的战车生成延迟中。<br>
+* 在两栖入侵图层上，单位投票屏幕中显示的某些战车生成延迟可能不准确。具体来说，如果一个单位开始时没有坦克的延迟，但两栖主产卵点（岛屿或运输舰）上没有坦克生成器，则在捕获目标后确保前方陆地生成基地之前，坦克将不可用。这不会反映在投票期间显示的战车生成延迟中。
 * “FactionSetupSkipRounds”设置不会可靠地导致在下一轮投票中跳过先前选择的单位。对此进行了修复尝试，但没有成功。将继续对此进行调查。但是，“FactionSkipRounds”设置现在应该可以跳过整个派系。
   ![](<../.gitbook/assets/image (32).png>)
-
-
-
-
 
 更新了团队选择屏幕在此更新中，我们引入了一个新的和更新的团队选择屏幕，以使其与我们改进的 UI 的其余部分保持一致：
 
@@ -3144,21 +2894,18 @@ Mod SDK 更新
 
 游戏玩法和系统更新
 
-* ⭐ 调整了所有铁瞄准步枪、手枪、自动步枪、机枪和冲锋枪的摇摆错位：四处走动导致的瞄准镜错位程度不再那么极端。这使得通过瞄准具更容易看到，而不会使前柱被后视镜遮挡，同时对整体武器摇摆的影响最小。体力不足仍会导致严重的错位，并触发视线偏移（“清晰视线”）。<br>
-* ⭐ 调整并标准化了触发视线（“清晰视线”）视角所需的摇摆量。<br>
-* ⭐ 在投票期间，单位预览屏幕以及团队选择菜单中的车辆计时器现在显示初始生成延迟，而不是重生时间。如果车辆立即可用，则使用连字符而不是计时器。<br>
-* ⭐ 在投票期间的单位预览屏幕以及团队选择菜单中添加了“特殊特性”部分。这是指诸如“每个 FOB +1 个额外 HAB”、“每个 FOB +1 个额外 ATGM 位置”、“敌方战车生成时间的情报”等信息。<br>
-* 🛠️ 添加了服务器所有者在配置投票时可以使用的新跳过选项。其中包括生物群落、图层大小和扩展的游戏模式跳过选项。<br>
-* 🛠️ 添加了一个配置选项，允许服务器所有者调整投票以确保对称的单位匹配。<br>
-* 🛠️ 添加了“夜间/非工作时间”配置，服务器所有者可以使用该配置来定义预定时间范围的自定义投票选项。它将覆盖常规配置，但仍会被低玩家数配置覆盖。<br>
-
-
+* ⭐ 调整了所有铁瞄准步枪、手枪、自动步枪、机枪和冲锋枪的摇摆错位：四处走动导致的瞄准镜错位程度不再那么极端。这使得通过瞄准具更容易看到，而不会使前柱被后视镜遮挡，同时对整体武器摇摆的影响最小。体力不足仍会导致严重的错位，并触发视线偏移（“清晰视线”）。
+* ⭐ 调整并标准化了触发视线（“清晰视线”）视角所需的摇摆量。
+* ⭐ 在投票期间，单位预览屏幕以及团队选择菜单中的车辆计时器现在显示初始生成延迟，而不是重生时间。如果车辆立即可用，则使用连字符而不是计时器。
+* ⭐ 在投票期间的单位预览屏幕以及团队选择菜单中添加了“特殊特性”部分。这是指诸如“每个 FOB +1 个额外 HAB”、“每个 FOB +1 个额外 ATGM 位置”、“敌方战车生成时间的情报”等信息。
+* 🛠️ 添加了服务器所有者在配置投票时可以使用的新跳过选项。其中包括生物群落、图层大小和扩展的游戏模式跳过选项。
+* 🛠️ 添加了一个配置选项，允许服务器所有者调整投票以确保对称的单位匹配。
+* 🛠️ 添加了“夜间/非工作时间”配置，服务器所有者可以使用该配置来定义预定时间范围的自定义投票选项。它将覆盖常规配置，但仍会被低玩家数配置覆盖。
 
 武器皮肤Precision Strike Pack（4.99 美元）
 
 这个新包包含四种武器皮肤，可在扮演 TLF 派系时使用：
 ![](<../.gitbook/assets/image (35).png>)
-
 
 KNT-76 射手步枪的黑色皮肤可用于任何生物群落，MPT-76 获得沙漠生物群落皮肤，SOR-9 同时获得林地和沙漠生物群落皮肤！
 
@@ -3166,26 +2913,15 @@ KNT-76 射手步枪的黑色皮肤可用于任何生物群落，MPT-76 获得沙
 
 这个新包包含一个表情和四个手势：
 
-
 ![](<../.gitbook/assets/image (36).png>)
 
-* ⭐Flex（表情）<br>
-* ⭐停火（手势）<br>
-* ⭐守望先锋（手势）<br>
-* ⭐无视（手势）<br>
-* ⭐各位领袖，请加入我！（手势）<br>
+* ⭐Flex（表情）
+* ⭐停火（手势）
+* ⭐守望先锋（手势）
+* ⭐无视（手势）
+* ⭐各位领袖，请加入我！（手势）
 
-<br>
-
-
-
-</details>
-
-<details>
-
-<summary>2024/3/21 V7.2.1 更新日志</summary>
-
-
+## 2024/3/21 V7.2.1 更新日志
 
 ![](<../.gitbook/assets/image (44).png>)
 
@@ -3240,11 +2976,7 @@ KNT-76 射手步枪的黑色皮肤可用于任何生物群落，MPT-76 获得沙
 * “更改示波器放大倍率”键绑定在 v7.2 中停止工作，这意味着默认键“F”不再适用于在支持该放大倍数的光学器件上切换 1 倍和 4 倍变焦。要解决此问题，请转到“步兵”部分的“设置”>“控制”菜单，然后将最底部的“循环范围放大级别”键绑定重新绑定回“F”。
 * 单位的特殊特征目前在投票或团队选择屏幕上不可见。这是指“此单位获得 2 个 HAB”、“该单位每个 FOB 获得 2 个 TOW”或“该单位具有较短的重生计时器”等信息。在将来的更新中，此信息将添加到投票和团队选择屏幕中。
 
-</details>
-
-<details>
-
-<summary>2024/3/12 V7.2 更新日志</summary>
+## 2024/3/12 V7.2 更新日志
 
 ### 顶级错误修复
 
@@ -3259,8 +2991,6 @@ KNT-76 射手步枪的黑色皮肤可用于任何生物群落，MPT-76 获得沙
 9. 修复了服务器浏览器在取消选中“显示空服务器”过滤器后仍然可见空服务器的问题。
 10. 修复了活着的玩家可能在地图、记分牌和小队列表中显示死亡的问题。
 11. 现在，当个人更换团队时，地雷将消失。
-
-
 
 ### **常规错误修复**
 
@@ -3464,8 +3194,6 @@ KNT-76 射手步枪的黑色皮肤可用于任何生物群落，MPT-76 获得沙
 
 ![](<../.gitbook/assets/image (144).png>)
 
-
-
 * 随着投票系统的加入，派系被分解为具有自己专长的单位。这些专业以独特的车辆阵容和 FOB 炮台为代表。将来，这可能会扩展到包括独特的武器、角色和指挥官能力。这些不同的单位可以出现在哪支球队的投票选项中。目前代表的单位类型是联合兵种（类似于投票前派系的设置方式）、空中突击、装甲、轻步兵、机械化、摩托化、支援和两栖攻击。只有某些派系可以访问所有单位类型。更多细节可以[在这里](https://docs.google.com/spreadsheets/d/1hkJU60bHeUOFGAgszPaFZaQHJ2GJ9Rt9hpyUbet4-k4/edit#gid=2117779150)找到。
 * 随着投票系统的加入，游戏层的数量得到了巩固。不同的派系对战不再需要新的层数（从 453 层减少到 203 层）。**其他独特的图层将在以后的更新中引入**。
 * 增加了对手动螺栓的支持：使用栓动步枪时，射击将不再自动循环螺栓。玩家必须再次按下开火按钮，手动循环螺栓并将新子弹装入枪膛。这允许您推迟循环螺栓，直到看到最后一次射击的影响，尤其是在使用瞄准镜时。
@@ -3507,13 +3235,7 @@ KNT-76 射手步枪的黑色皮肤可用于任何生物群落，MPT-76 获得沙
 
 ‍
 
-</details>
-
-<details>
-
-<summary>2024/2/22 V7.1.1 更新日志</summary>
-
-
+## 2024/2/22 V7.1.1 更新日志
 
 ### **常规 BUG 修复**
 
@@ -3536,13 +3258,7 @@ KNT-76 射手步枪的黑色皮肤可用于任何生物群落，MPT-76 获得沙
 * 当前，在返回服务器结&#x679C;_**后**_，客户端上会进行标记筛选。这意味着按标签（例如语言）进行过滤将无法作为达到上述 200 个结果上限的解决方法。就目前而言，ping 过滤是规避这种情况的最可靠方法。正在研究在搜索查询期间发生的标记筛选，以备将来的更新使用。
 * 服务器的过滤仍使用区域 ping 完成。这意味着，如果由于某种原因，服务器的区域 ping 值远低于或高于其直接服务器 ping，则服务器浏览器结果可能存在差异。
 
-</details>
-
-<details>
-
-<summary>2024/2/8  V7.1 更新日志</summary>
-
-
+## 2024/2/8 V7.1 更新日志
 
 本次更新为战术小队引入了新地图 "三仙群岛"，同时进行了包括服务器浏览器在内的改进修复。
 
@@ -3554,148 +3270,115 @@ KNT-76 射手步枪的黑色皮肤可用于任何生物群落，MPT-76 获得沙
 
 三仙群岛地图版本
 
-* AAS 攻守有序 v1 - 美国陆军 USA vs 中国人民解放军陆军PLA<br>
-* AAS攻守有序v2 - 美国海军陆战队USMC vs中国人民解放军陆军PLA<br>
-* AAS 攻守有序v3 - 加拿大陆军CAF vs 中国人民解放军陆军PLA<br>
-* Invasion 侵攻 v1 - 美国海军陆战队USMC vs 中国人民解放军陆军PLA<br>
-* Invasion 侵攻 v2 - 中国人民解放军海军陆战队PLANMC vs 美国陆军 USA<br>
-* RAAS 随机攻防v1 - 美国海军陆战队USMC vs 中国人民解放军陆军PLA<br>
-* RAAS 随机攻防 v2 - 澳大利亚国防军ADF vs 中国人民解放军陆军PLA<br>
-* Seed 火力侦察 v1 - 澳大利亚国防军ADF vs 中国人民解放军陆军PLA<br>
-* Skirmish 遭遇战 v1 - 美国海军陆战队USMC vs 中国人民解放军陆军PLA<br>
-
-
+* AAS 攻守有序 v1 - 美国陆军 USA vs 中国人民解放军陆军PLA
+* AAS攻守有序v2 - 美国海军陆战队USMC vs中国人民解放军陆军PLA
+* AAS 攻守有序v3 - 加拿大陆军CAF vs 中国人民解放军陆军PLA
+* Invasion 侵攻 v1 - 美国海军陆战队USMC vs 中国人民解放军陆军PLA
+* Invasion 侵攻 v2 - 中国人民解放军海军陆战队PLANMC vs 美国陆军 USA
+* RAAS 随机攻防v1 - 美国海军陆战队USMC vs 中国人民解放军陆军PLA
+* RAAS 随机攻防 v2 - 澳大利亚国防军ADF vs 中国人民解放军陆军PLA
+* Seed 火力侦察 v1 - 澳大利亚国防军ADF vs 中国人民解放军陆军PLA
+* Skirmish 遭遇战 v1 - 美国海军陆战队USMC vs 中国人民解放军陆军PLA
 
 系统与玩法更新
 
-* 由于与英伟达DLSS 3.0 功能相关的GPU崩溃事件频发，我们决定暂时禁用该功能直至更加稳定的版本。<br>
-* 修复了与VOIP语音系统有关的服务器崩溃问题，该问题可能会在离开服务器并短时间内重连后出现。<br>
-* 增加了 M2 和 NSV 部署式重机枪的俯仰角。<br>
-
-
+* 由于与英伟达DLSS 3.0 功能相关的GPU崩溃事件频发，我们决定暂时禁用该功能直至更加稳定的版本。
+* 修复了与VOIP语音系统有关的服务器崩溃问题，该问题可能会在离开服务器并短时间内重连后出现。
+* 增加了 M2 和 NSV 部署式重机枪的俯仰角。
 
 服务器浏览器改进随着 7.0 版本的更新，战术小队改为使用Epic在线服务。不幸的是，由于EOS在线服务的特性，每次服务器搜索能返回的服务器数量限制在 200 个。而这个限制在 Steam服务上要高很多，通常能让玩家搜索到所有活跃的服务器。我们之前会在客户端过滤这些搜索结果，而不是让 Steam 后台返回预先过滤的结果。我们一直在努力解决这个问题，而在本次更新中，我们在服务器浏览器的查询功能中添加了以下筛选功能：
-<br>
 
-* 延迟筛选<br>
-* 空服务器筛选<br>
-* 满服务器筛选<br>
-* 认证服务器筛选<br>
-* 模组服务器筛选<br>
-* 显示不同版本的服务器<br>
-* 搜索栏筛选<br>
-
-
+* 延迟筛选
+* 空服务器筛选
+* 满服务器筛选
+* 认证服务器筛选
+* 模组服务器筛选
+* 显示不同版本的服务器
+* 搜索栏筛选
 
 我们仍努力将服务器的标签系统转移至EOS 在线服务查询中，但本项工作耗时大于预期。我们将在今后的更新中发布该项功能的修复。
 
 一般错误修复
 
-* 修复了一些可能导致以往武器皮肤和战队臂章无法在自定义菜单中正确显示（或根本无法显示）的问题。<br>
-* 修复了在切换地图时可能发生的与EOS在线服务有关的客户端崩溃问题。<br>
-* 修复了在加入带有较长 "每日消息 "的服务器时可能导致加载时间延长或无法加载的问题。<br>
-* 修复了玩家在尝试加入服务器时卡在主菜单背景图片上的一个问题。<br>
-* 修复了允许土耳其陆军在一个小队中能选取多个机瞄MG3直接战斗兵种的问题。<br>
-
-
+* 修复了一些可能导致以往武器皮肤和战队臂章无法在自定义菜单中正确显示（或根本无法显示）的问题。
+* 修复了在切换地图时可能发生的与EOS在线服务有关的客户端崩溃问题。
+* 修复了在加入带有较长 "每日消息 "的服务器时可能导致加载时间延长或无法加载的问题。
+* 修复了玩家在尝试加入服务器时卡在主菜单背景图片上的一个问题。
+* 修复了允许土耳其陆军在一个小队中能选取多个机瞄MG3直接战斗兵种的问题。
 
 模组 SDK 更新
 
 * 在模组 SDK 中添加了三贤岛地图。
 
-
-
 已知问题
 
-* 服务器标签筛选将对检索结果而非筛选 EOS 后台结果。<br>
+* 服务器标签筛选将对检索结果而非筛选 EOS 后台结果。
 * 服务器浏览器搜索栏会对检索结果进行筛选，而非筛选 EOS 后台结果。
 
-</details>
-
-<details>
-
-<summary>2023/12/15 V7.0.1 更新日志</summary>
-
-
+## 2023/12/15 V7.0.1 更新日志
 
 系统和游戏更新 - 调整了TLF SOR-109T冲锋枪的后坐力，使其在全自动模式下更具侵略性，更易于控制，适合短距离使用。
-- 调整后的 TLF LAT 02 和 LAT 03 套件库存如下： LAT 2：<br>
+- 调整后的 TLF LAT 02 和 LAT 03 套件库存如下： LAT 2：
 
-* MPT76 + 海航<br>
-* RPG7 热火 x2<br>
-* RPG7 碎片 x2<br>
+* MPT76 + 海航
+* RPG7 热火 x2
+* RPG7 碎片 x2
 
+第 3 年：
 
-第 3 年：<br>
+* MPT76 + A940型
+* HAR66 x2系列
+* 碎片手榴弹 x1
 
-* MPT76 + A940型<br>
-* HAR66 x2系列<br>
-* 碎片手榴弹 x1<br>
+常规 Bug 修复
 
-
-
-
-常规 Bug 修复<br>
-
-* 修复了 TLF ACV-15 Open Top M2 和 MG3 APC 需要驾驶员乘员的问题。<br>
-* 修复了 TLF 能够在一个小队中拥有两个 AR MG3+Irons 套件角色的问题，现在一个小队中应该只能有 1 个。当小队达到 3 名小队成员时，这将解锁。<br>
-* 修复了装备屏幕上 TLF LAT 01 RPG-7 v2 套件上缺少的文本。<br>
-* 修复了RGF AK74M 1P78瞄准镜的问题，该瞄准镜看起来比武器的其余部分更暗/更饱和/更闪亮。<br>
-* 修复了一个漏洞，即玩家可以在操纵杆或方向盘上解锁他们的输入，使他们能够以荒谬的速度在车辆中缩放地图。<br>
-* 修复了在装备了较小武器的情况下执行表情时肩膀看起来变形的问题。<br>
-* 修复了腋窝在动画中看起来变形的问题。<br>
-* 修复了 TLF 集结点在装备时意外使用 ADF 集结点的问题。<br>
-* 修复了步兵教程中 NPC 士兵在需要蹲下时会摆出 T 姿势的问题。<br>
-* 修复了一些与武器皮肤相关的客户端日志垃圾邮件。<br>
-* 修复了“查找匹配项”无法正常工作的问题。<br>
-* 修复了断开与服务器连接后无法在本地打开的地图上使用管理员命令的问题。<br>
-* 修复了对服务器的失败 ping 将显示 -1000 的问题。这已更改为 9999。<br>
-* 修复了按 Ping 筛选无法正确筛选找到的结果的问题。<br>
-
+* 修复了 TLF ACV-15 Open Top M2 和 MG3 APC 需要驾驶员乘员的问题。
+* 修复了 TLF 能够在一个小队中拥有两个 AR MG3+Irons 套件角色的问题，现在一个小队中应该只能有 1 个。当小队达到 3 名小队成员时，这将解锁。
+* 修复了装备屏幕上 TLF LAT 01 RPG-7 v2 套件上缺少的文本。
+* 修复了RGF AK74M 1P78瞄准镜的问题，该瞄准镜看起来比武器的其余部分更暗/更饱和/更闪亮。
+* 修复了一个漏洞，即玩家可以在操纵杆或方向盘上解锁他们的输入，使他们能够以荒谬的速度在车辆中缩放地图。
+* 修复了在装备了较小武器的情况下执行表情时肩膀看起来变形的问题。
+* 修复了腋窝在动画中看起来变形的问题。
+* 修复了 TLF 集结点在装备时意外使用 ADF 集结点的问题。
+* 修复了步兵教程中 NPC 士兵在需要蹲下时会摆出 T 姿势的问题。
+* 修复了一些与武器皮肤相关的客户端日志垃圾邮件。
+* 修复了“查找匹配项”无法正常工作的问题。
+* 修复了断开与服务器连接后无法在本地打开的地图上使用管理员命令的问题。
+* 修复了对服务器的失败 ping 将显示 -1000 的问题。这已更改为 9999。
+* 修复了按 Ping 筛选无法正确筛选找到的结果的问题。
 
 * 修复了与启用 DLSS 的 Alt Tabping 相关的崩溃问题。
 
 地图更新和错误修复
-<br>
 
-* 修复了 Belaya RAAS v1 上的一个问题，即 PLANMC 可以在没有资源成本的情况下放置无限的 HASCO 掩体。<br>
-* 修复了 Belaya RAAS v1 上描述不正确的问题。<br>
-* 修复了 Yehorivka Invasion v5 被错误地标记为 v4 的问题。<br>
-* 修复了 Yehorivka Invasion v5 上 TLF ACV-15 无法生成的问题。<br>
+* 修复了 Belaya RAAS v1 上的一个问题，即 PLANMC 可以在没有资源成本的情况下放置无限的 HASCO 掩体。
+* 修复了 Belaya RAAS v1 上描述不正确的问题。
+* 修复了 Yehorivka Invasion v5 被错误地标记为 v4 的问题。
+* 修复了 Yehorivka Invasion v5 上 TLF ACV-15 无法生成的问题。
 
+已知问题
 
-
-
-已知问题<br>
-
-* 服务器浏览器可能会在初始延迟后自行刷新。我们仍在调查其根本原因。<br>
-* 按 Ping 筛选的服务器浏览器不会导致仅获取该 ping 下的服务器。相反，它将过滤当前服务器浏览器视图中已有的服务器，以达到该 ping 限制。刷新服务器浏览器将获取新结果，但可能会产生较少的结果。这是由于EOS允许我们每次调用检索的会话数量受到限制。<br>
+* 服务器浏览器可能会在初始延迟后自行刷新。我们仍在调查其根本原因。
+* 按 Ping 筛选的服务器浏览器不会导致仅获取该 ping 下的服务器。相反，它将过滤当前服务器浏览器视图中已有的服务器，以达到该 ping 限制。刷新服务器浏览器将获取新结果，但可能会产生较少的结果。这是由于EOS允许我们每次调用检索的会话数量受到限制。
 * 服务器浏览器过滤通常是在获取结果后对结果进行的。Epic在线服务将按照其决定的顺序发送其会话结果，这超出了我们的控制范围。我们认为这是一个重大问题，并正在尽最大努力在将来的更新中解决此问题。由于它发生在收到结果之后，您可能无法立即找到要查找的服务器，并且需要单击几次“刷新”按钮。
 
-</details>
-
-<details>
-
-<summary>2023/12/13 V7.0 更新日志 <mark style="color:red;"><strong>重大更新</strong></mark></summary>
+## 2023/12/13 V7.0 更新日志 重大更新
 
 本次更新引入了土耳其陆军派系、一组新的表情和新的武器皮肤系统：
 
 土耳其陆军 （TLF）土耳其陆军作为一个有能力的独立派系加入小队，拥有强大的步兵和良好的车辆。他们拥有国产、苏联和西方装备的混合体，虽然他们的一些车辆较旧，但他们用强大的步兵弥补了这一点。步兵可以使用额外的掷弹兵角色，包括配备 MGL 的掷弹兵角色、强大的半自动榴弹发射器、配备现代冲锋枪的突袭者角色，并且可以比其他派系部署更多的轻型反坦克武器，但缺乏专门的重型反坦克角色。
 
+武器SOR 109T 冲锋枪
 
-
-武器SOR 109T 冲锋枪<br>
-
-* MPT-76步枪<br>
-* KNT-76神射手步枪<br>
-* AK40-GL悬挂式榴弹发射器<br>
-* PMT-76中型机枪<br>
-* MG3 - Iron Sights 变体<br>
-* MKE MGL榴弹发射器<br>
-* HAR-66轻型反坦克武器<br>
-* SOR-9手枪<br>
-* 光学<br>
-
+* MPT-76步枪
+* KNT-76神射手步枪
+* AK40-GL悬挂式榴弹发射器
+* PMT-76中型机枪
+* MG3 - Iron Sights 变体
+* MKE MGL榴弹发射器
+* HAR-66轻型反坦克武器
+* SOR-9手枪
+* 光学
 
 * A940 1-4x 光学元件
 * KESKIN Marksman 光学元件
@@ -3705,32 +3388,28 @@ KNT-76 射手步枪的黑色皮肤可用于任何生物群落，MPT-76 获得沙
 
 车辆
 
-* BMC 185-09B 卡车<br>
-* 眼镜蛇II MRAP<br>
-* ACV-15履带式APC/IFV<br>
-* PARS III 车轮 APC/IFV<br>
-* M60T主战坦克<br>
-* UH1H直升机<br>
-
-
+* BMC 185-09B 卡车
+* 眼镜蛇II MRAP
+* ACV-15履带式APC/IFV
+* PARS III 车轮 APC/IFV
+* M60T主战坦克
+* UH1H直升机
 
 ![](https://clan.cloudflare.steamstatic.com/images/10141695/adb065bb50718fe7da5502d572d7c4b8d7f55cc2.png)
 
 套件角色
 
-* 班长（3种变体）<br>
-* 医生 （2 变体）<br>
-* 步枪手（3种变体）<br>
-* 轻型反坦克（3种型号）<br>
-* 自动步枪手<br>
-* 詹达玛<br>
-* 射手<br>
-* 机枪手<br>
-* 乘员（+班长乘员）<br>
-* 飞行员（+班长飞行员）<br>
-* 工程师<br>
-
-
+* 班长（3种变体）
+* 医生 （2 变体）
+* 步枪手（3种变体）
+* 轻型反坦克（3种型号）
+* 自动步枪手
+* 詹达玛
+* 射手
+* 机枪手
+* 乘员（+班长乘员）
+* 飞行员（+班长飞行员）
+* 工程师
 
 TLF 游戏图层巴士拉
 • 入侵 v9 - TLF vs INS
@@ -3787,39 +3466,29 @@ Sumari
 
 Woodland Warfare Pack（4.99 美元）
 
-
 包含三件可在林地地图上使用的装饰品
 
-<br>
-
-* 热带雨林 - QBZ95-1 突击步枪和 QBZ95B-1 卡宾枪（PLA 和 PLANMC）的工厂迷彩<br>
-* 阴影 - M4A1 和 M4 卡宾枪的喷漆（美国和美国海军陆战队）<br>
-* Tree Line - 用于 AK74M 突击步枪 （RGF） 的可靠迷彩漆<br>
-
-
+* 热带雨林 - QBZ95-1 突击步枪和 QBZ95B-1 卡宾枪（PLA 和 PLANMC）的工厂迷彩
+* 阴影 - M4A1 和 M4 卡宾枪的喷漆（美国和美国海军陆战队）
+* Tree Line - 用于 AK74M 突击步枪 （RGF） 的可靠迷彩漆
 
 ![](https://clan.cloudflare.steamstatic.com/images/10141695/1a9c80e0368c1ddb4400829f1e8cb16a211a55e0.png)
 
 沙漠战争包（4.99 美元）
 
-
 包含三种用于沙漠地图的装饰品
 
-<br>
-
-* 戈壁 - QBZ95-1突击步枪和QBZ95B-1卡宾枪（PLA和PLANMC）的特殊迷彩订单<br>
-* 黑色和棕褐色 - M4A1和M4卡宾枪的经典配色方案（美国和美国海军陆战队）<br>
-* 灰尘 - AK-74M 突击步枪 （RGF） 的轻微磨损迷彩漆<br>
-
-
+* 戈壁 - QBZ95-1突击步枪和QBZ95B-1卡宾枪（PLA和PLANMC）的特殊迷彩订单
+* 黑色和棕褐色 - M4A1和M4卡宾枪的经典配色方案（美国和美国海军陆战队）
+* 灰尘 - AK-74M 突击步枪 （RGF） 的轻微磨损迷彩漆
 
 ![](https://clan.cloudflare.steamstatic.com/images/10141695/ed798cac2fe8bd78b147006979d62c184e46fcda.png)
 
-传统武器皮肤更新了现有的创始人和奖励武器皮肤以使用新的皮肤系统：<br>
+传统武器皮肤更新了现有的创始人和奖励武器皮肤以使用新的皮肤系统：
 
-* 将旧版皮肤从“设置”中的“Steam 库存”部分移至“自定义”屏幕上的新“武器皮肤”选项卡<br>
-* 传统皮肤不像以前那样有生物群落限制<br>
-* 将一些现有皮肤添加到主题上合适的新派系中<br>
+* 将旧版皮肤从“设置”中的“Steam 库存”部分移至“自定义”屏幕上的新“武器皮肤”选项卡
+* 传统皮肤不像以前那样有生物群落限制
+* 将一些现有皮肤添加到主题上合适的新派系中
 
 * RPG7 Veteran 现在可以被 VDV 派系使用
 * RPG7v2 Veteran 现在可以被 VDV、MEA 和新的 TLF 派系使用
@@ -3829,87 +3498,80 @@ Woodland Warfare Pack（4.99 美元）
 Stand Off Pack（3.99 美元）
 
 ![](https://clan.cloudflare.steamstatic.com/images/10141695/d8eaad34879d364e185fcad8f8f25f69b4a2f6c7.png)
-<br>
 
-* 割喉（手势）<br>
-* 拳头泵（手势）<br>
-* 手指枪（表情）<br>
-* 看不见我（手势）<br>
-* 停止（手势）<br>
-
-
+* 割喉（手势）
+* 拳头泵（手势）
+* 手指枪（表情）
+* 看不见我（手势）
+* 停止（手势）
 
 系统和游戏更新
-<br>
 
-* 集成的Epic在线服务<br>
-
+* 集成的Epic在线服务
 
 我们已将所有 Steam 后端调用替换为 Epic 在线服务后端调用。这仍将像以前一样使用您的 Steam 帐户向后端进行身份验证。
 \[列表]
 
-* 在设置菜单中集成了 Nvidia DLSS 插件作为升级选项<br>
-* 在未连接音频设备的情况下按下VOIP键的播放器现在将看到“无输入设备”通知<br>
-* 将所有LAT最小布防距离调整为15米<br>
-* 将所有HAT最小布防距离调整为20米<br>
-* 直升机飞行员将不再受到压制的影响<br>
-* 在可变放大倍率光学元件上更改放大倍率时添加了武器打孔动画。在调整放大倍率时，这会暂时甩掉瞄准具<br>
-* 提高PLANMC ZBD05底盘车辆的陆地速度<br>
+* 在设置菜单中集成了 Nvidia DLSS 插件作为升级选项
+* 在未连接音频设备的情况下按下VOIP键的播放器现在将看到“无输入设备”通知
+* 将所有LAT最小布防距离调整为15米
+* 将所有HAT最小布防距离调整为20米
+* 直升机飞行员将不再受到压制的影响
+* 在可变放大倍率光学元件上更改放大倍率时添加了武器打孔动画。在调整放大倍率时，这会暂时甩掉瞄准具
+* 提高PLANMC ZBD05底盘车辆的陆地速度
 
 \[\*]更新了 BMD 车轮和 BTR-D 底盘，在高速转弯时感觉更好，并减少了最高速度下的机头倾斜。
 
-常规 Bug 修复<br>
+常规 Bug 修复
 
-* 修复了与遭受损坏相关的罕见客户端崩溃<br>
-* 修复了与修改客户端上的耐力减益相关的罕见客户端崩溃<br>
-* 修复了与服务器安全相关的漏洞<br>
-* 修复了可能允许非管理员使用公告功能的问题<br>
-* 修复了一个错误，该错误可能导致玩家在修改后的服务器上加入比赛后卡在无限加载屏幕（“跑人”）上<br>
-* 修复了一个错误，该错误可能导致玩家在加入服务器并选择团队后卡在无限加载屏幕（“跑人”）上<br>
-* 对我们的纹理进行了优化，以减少VRAM的使用。这应该可以提高性能并减少视觉问题，尤其是在 VRAM 较少的 GPU 上。<br>
-* 修复了在更换音频输入设备或重新连接以前使用的音频输入设备后阻止玩家使用麦克风的 bug<br>
-* 修复了一个 bug，该 bug 可能导致通过画中画范围的视图以非常低的像素化分辨率呈现<br>
-* 更正了 QBZ95-1 瞄准镜掷弹兵变体的归零<br>
-* 更正了 DZJ08 上的归零<br>
-* 更正了F89 Minimi + Spectre的归零<br>
-* 修复了一个错误，该错误可能导致部分 BAF Elcan LDS 瞄准镜在瞄准瞄准具时出现脱落<br>
-* 修复了几个可能阻止玩家在与菜单交互后蹲下的小问题<br>
-* 修复了导致装备的武器在使用自由视角时摇晃的错误<br>
-* 士兵灵敏度滑块现在可以正确地影响武器和屏幕移动<br>
-* 压制功能现在对战车和炮台中的玩家有效<br>
-* 改进了装有步兵武器的战车的枪口闪光效果<br>
-* 修复了一个错误，该错误允许在完全瞄准瞄准具之前发射反坦克步枪<br>
-* 玩家将 FOV 设置更改为 120 后，Z 点准星将不再断裂<br>
-* 修复了一个 bug，该 bug 导致 AS-VAL 在单点火模式下的声音比在自动点火模式下的声音更大<br>
-* 当玩家卡在两个物体之间时，“坠落”的枪动画将不再播放<br>
-* 修复了一个 bug，该 bug 可能导致“坠落”动画在玩家着陆后继续播放<br>
-* 修复了一个可能导致士兵在攀爬高墙时瞬间“消失”的错误<br>
-* 修复了一个错误，该错误可能导致士兵的手在某些 FOV 设置下似乎夹在 FN FAL 步枪（手榴弹变体）中<br>
-* 修复了导致 M3 MAAWS 的眼罩在瞄准瞄准具时夹入相机的错误<br>
-* 修复了一个错误，该错误导致美国陆军医疗包看起来比士兵制服的其他部分更亮<br>
-* 修复了一个错误，该错误可能导致相机在退出 Admin Cam 时卡在士兵角色模型中<br>
-* 修复了退出车辆时可能出现的动画问题<br>
-* 修复了一个 bug，该 bug 可能导致摄像机缩小到玩家无法看到玩家是否向其 ADS 输入发送垃圾邮件<br>
-* 指挥官弹幕技能的烟雾不再闪烁<br>
-* 改进了与更改地图相关的内存使用情况<br>
-* 修复了一个错误，该错误偶尔会导致直升机仪表板在飞行员座位上空白<br>
-* 修复了一个错误，该错误允许玩家通过发送垃圾邮件来缩小并大幅调整武器的方向<br>
-* 修复了一个错误，如果玩家已经溺水并在比赛早期复活，他们可能会被淹死<br>
-* 玩家在离开 ZTZ99A MBT 的指挥官座位后将不再被卡住<br>
-* 玩家在向车辆中的“交换座位”钥匙发送垃圾邮件后将不再被卡住<br>
-* 修复了一个错误，该错误允许玩家在弹药架烹饪时重新装填和射击 Sprut、BMD1、BMD4 和 ZTD05 的主炮塔。<br>
-* 修复了导致 BTR-D PKM APC 的 SFX 和损坏值与 BTR-D KORD APC 相同而不是其唯一值的错误<br>
-* 修复了在使用 IMF HAT 角色时导致老兵武器皮肤显示不正确的错误<br>
-* 枪管下榴弹发射器在弹膛中不再有可见的子弹<br>
-* 改进了ZiS-3野战炮阵地的外观<br>
-* 筛选器不再适用于“收藏夹”或“最近使用”服务器浏览器页面<br>
-* BRDM-2装甲车的4号和5号座位的玩家在不平坦的地形上行驶时将无法再看到视窗外<br>
-* RGF Kornet ATGM炮台不再是坚不可摧的<br>
-* 在未连接到服务器的情况下通过转义键退出“自定义”菜单不再显示“退出游戏”提示<br>
-* 修复了一个错误，该错误阻止了被简易爆炸装置摧毁的车辆从地图中移除并重生<br>
-* 修复了一个可能导致直升机乘客在受损后看起来漂浮在空中的错误<br>
-
-
+* 修复了与遭受损坏相关的罕见客户端崩溃
+* 修复了与修改客户端上的耐力减益相关的罕见客户端崩溃
+* 修复了与服务器安全相关的漏洞
+* 修复了可能允许非管理员使用公告功能的问题
+* 修复了一个错误，该错误可能导致玩家在修改后的服务器上加入比赛后卡在无限加载屏幕（“跑人”）上
+* 修复了一个错误，该错误可能导致玩家在加入服务器并选择团队后卡在无限加载屏幕（“跑人”）上
+* 对我们的纹理进行了优化，以减少VRAM的使用。这应该可以提高性能并减少视觉问题，尤其是在 VRAM 较少的 GPU 上。
+* 修复了在更换音频输入设备或重新连接以前使用的音频输入设备后阻止玩家使用麦克风的 bug
+* 修复了一个 bug，该 bug 可能导致通过画中画范围的视图以非常低的像素化分辨率呈现
+* 更正了 QBZ95-1 瞄准镜掷弹兵变体的归零
+* 更正了 DZJ08 上的归零
+* 更正了F89 Minimi + Spectre的归零
+* 修复了一个错误，该错误可能导致部分 BAF Elcan LDS 瞄准镜在瞄准瞄准具时出现脱落
+* 修复了几个可能阻止玩家在与菜单交互后蹲下的小问题
+* 修复了导致装备的武器在使用自由视角时摇晃的错误
+* 士兵灵敏度滑块现在可以正确地影响武器和屏幕移动
+* 压制功能现在对战车和炮台中的玩家有效
+* 改进了装有步兵武器的战车的枪口闪光效果
+* 修复了一个错误，该错误允许在完全瞄准瞄准具之前发射反坦克步枪
+* 玩家将 FOV 设置更改为 120 后，Z 点准星将不再断裂
+* 修复了一个 bug，该 bug 导致 AS-VAL 在单点火模式下的声音比在自动点火模式下的声音更大
+* 当玩家卡在两个物体之间时，“坠落”的枪动画将不再播放
+* 修复了一个 bug，该 bug 可能导致“坠落”动画在玩家着陆后继续播放
+* 修复了一个可能导致士兵在攀爬高墙时瞬间“消失”的错误
+* 修复了一个错误，该错误可能导致士兵的手在某些 FOV 设置下似乎夹在 FN FAL 步枪（手榴弹变体）中
+* 修复了导致 M3 MAAWS 的眼罩在瞄准瞄准具时夹入相机的错误
+* 修复了一个错误，该错误导致美国陆军医疗包看起来比士兵制服的其他部分更亮
+* 修复了一个错误，该错误可能导致相机在退出 Admin Cam 时卡在士兵角色模型中
+* 修复了退出车辆时可能出现的动画问题
+* 修复了一个 bug，该 bug 可能导致摄像机缩小到玩家无法看到玩家是否向其 ADS 输入发送垃圾邮件
+* 指挥官弹幕技能的烟雾不再闪烁
+* 改进了与更改地图相关的内存使用情况
+* 修复了一个错误，该错误偶尔会导致直升机仪表板在飞行员座位上空白
+* 修复了一个错误，该错误允许玩家通过发送垃圾邮件来缩小并大幅调整武器的方向
+* 修复了一个错误，如果玩家已经溺水并在比赛早期复活，他们可能会被淹死
+* 玩家在离开 ZTZ99A MBT 的指挥官座位后将不再被卡住
+* 玩家在向车辆中的“交换座位”钥匙发送垃圾邮件后将不再被卡住
+* 修复了一个错误，该错误允许玩家在弹药架烹饪时重新装填和射击 Sprut、BMD1、BMD4 和 ZTD05 的主炮塔。
+* 修复了导致 BTR-D PKM APC 的 SFX 和损坏值与 BTR-D KORD APC 相同而不是其唯一值的错误
+* 修复了在使用 IMF HAT 角色时导致老兵武器皮肤显示不正确的错误
+* 枪管下榴弹发射器在弹膛中不再有可见的子弹
+* 改进了ZiS-3野战炮阵地的外观
+* 筛选器不再适用于“收藏夹”或“最近使用”服务器浏览器页面
+* BRDM-2装甲车的4号和5号座位的玩家在不平坦的地形上行驶时将无法再看到视窗外
+* RGF Kornet ATGM炮台不再是坚不可摧的
+* 在未连接到服务器的情况下通过转义键退出“自定义”菜单不再显示“退出游戏”提示
+* 修复了一个错误，该错误阻止了被简易爆炸装置摧毁的车辆从地图中移除并重生
+* 修复了一个可能导致直升机乘客在受损后看起来漂浮在空中的错误
 
 地图更新和错误修复巴士拉
 • 入侵 v8 - 所有 RHIB 船只现在都可以从码头
@@ -3933,18 +3595,12 @@ Stand Off Pack（3.99 美元）
 
 Mod SDK 更新
 
-* 更新 mod SDK 至 v7.0<br>
-* 将 mod 版本控制更新到 v7.0。这意味着所有模组都需要使用 v7.0 SDK 重新烹饪才能与游戏的更新版本兼容。<br>
-
-
+* 更新 mod SDK 至 v7.0
+* 将 mod 版本控制更新到 v7.0。这意味着所有模组都需要使用 v7.0 SDK 重新烹饪才能与游戏的更新版本兼容。
 
 已知问题
 
-* 我们注意到一个问题，即允许玩家在配备近战武器时“瞄准瞄准具”。在我们努力修复该问题时，请注意这一点，如果您在持有近战武器时遇到任何问题，请考虑一下。某些功能，如表情和交互轮，在瞄准时是无法访问的，所以请记住这一点。<br>
-* “查找匹配项”功能当前不起作用。我们正在为此进行修复，我们将在 v7.0 发布后不久的更新中提供。<br>
-* 有时，服务器浏览器中可能会出现未激活的服务器。这特定于在 Windows 环境中运行且最近重新启动的服务器。它会在几分钟内自行解决。当服务器在 Linux 环境中运行时，不存在此问题。<br>
-* 在启用帧生成的情况下使用 DLSS 时，stat fps 命令将不会显示正确的 FPS。这是由于 stat fps 的工作方式依赖于 CPU 请求的帧数。Nvidia Overlay 将显示实际的 FPS。我们计划在将来的版本中对此进行修复。<br>
-
-<br>
-
-</details>
+* 我们注意到一个问题，即允许玩家在配备近战武器时“瞄准瞄准具”。在我们努力修复该问题时，请注意这一点，如果您在持有近战武器时遇到任何问题，请考虑一下。某些功能，如表情和交互轮，在瞄准时是无法访问的，所以请记住这一点。
+* “查找匹配项”功能当前不起作用。我们正在为此进行修复，我们将在 v7.0 发布后不久的更新中提供。
+* 有时，服务器浏览器中可能会出现未激活的服务器。这特定于在 Windows 环境中运行且最近重新启动的服务器。它会在几分钟内自行解决。当服务器在 Linux 环境中运行时，不存在此问题。
+* 在启用帧生成的情况下使用 DLSS 时，stat fps 命令将不会显示正确的 FPS。这是由于 stat fps 的工作方式依赖于 CPU 请求的帧数。Nvidia Overlay 将显示实际的 FPS。我们计划在将来的版本中对此进行修复。
