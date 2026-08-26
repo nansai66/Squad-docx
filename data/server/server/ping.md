@@ -4,11 +4,11 @@
 想当 Squad 服主？50 元/月起就能拿下入门款专属服务器！[南赛云](https://server.squadovo.cn/)是高性价比开服首选，低价不低质，让您轻松启动专属战局，低成本圆服主梦～
 {% endhint %}
 
-**边缘区域Ping** 是决定您的服务器在服务器列表筛选延迟的关键
+**边缘区域 Ping** 是决定您的服务器在服务器列表筛选延迟的关键
 
-您可以通过 RCON 查询您的服务器链接至 **边缘区域Ping** 延迟
+您可以通过 RCON 查询您的服务器链接至 **边缘区域 Ping** 延迟
 
-如果您发现无法连接至 **边缘区域Ping** 服务器，您可以进行 [可达性测试](http://ec2-reachability.amazonaws.com/)
+如果您发现无法连接至 **边缘区域 Ping** 服务器，您可以进行 [可达性测试](http://ec2-reachability.amazonaws.com/)
 
 <details>
 
@@ -26,7 +26,7 @@
 
 </details>
 
-## 边缘Ping服务器列表
+## 边缘 Ping 服务器列表
 
 ### 亚洲地区 <a href="#ya-zhou-di-qu-ci-qu-yu-dui-guo-nei-you-hao-tui-jian" id="ya-zhou-di-qu-ci-qu-yu-dui-guo-nei-you-hao-tui-jian"></a>
 

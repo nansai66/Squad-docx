@@ -1,5 +1,5 @@
 ---
-description: 页面贡献者：南赛网络，桀氓AlbertWensley
+description: 页面贡献者：南赛网络，桀氓 AlbertWensley
 ---
 
 # Skirmish | 遭遇战

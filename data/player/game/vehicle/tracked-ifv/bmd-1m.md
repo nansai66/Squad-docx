@@ -59,7 +59,7 @@ BMD-1M 是俄罗斯研制的一款空降步兵战车，是 BMD-1 的改进型。
 * 安全距离：2m
 {% endtab %}
 
-{% tab title="40毫米烟雾抛射器" %}
+{% tab title="40 毫米烟雾抛射器" %}
 * 子弹数量：2 x 1
 * 射击间隙：1s
 * 装填时间：1s
@@ -75,3 +75,7 @@ BMD-1M 是俄罗斯研制的一款空降步兵战车，是 BMD-1 的改进型。
 <figure><img src="../../../../.gitbook/assets/BMD1M.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/BMD1M沙漠涂装.png" alt=""><figcaption></figcaption></figure>
+
+---
+
+> **注：** VDV 的 BMD-1M 与 BMP-1 基本相同，但没有导弹。

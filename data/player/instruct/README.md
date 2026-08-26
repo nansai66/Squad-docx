@@ -1,5 +1,5 @@
 ---
-description: 这里写出了Squad游戏 所有能操作的指令
+description: 这里写出了 Squad 游戏 所有能操作的指令
 icon: wrench
 ---
 
@@ -15,7 +15,7 @@ icon: wrench
 
 <figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
-按键不是加入服务器后才能使用，启动Squad程序后就能启动指令！
+按键不是加入服务器后才能使用，启动 Squad 程序后就能启动指令！
 
 <details>
 

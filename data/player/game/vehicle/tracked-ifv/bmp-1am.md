@@ -29,7 +29,7 @@ BMP-1AM 是 BMP-1 改进而成。
 ## 武器数据
 
 {% tabs %}
-{% tab title="3UBR8 30毫米硬芯穿甲弹" %}
+{% tab title="3UBR8 30 毫米硬芯穿甲弹" %}
 * 子弹数量：150 x 1
 * 射击间隙：0.18s
 * 装填时间：11.28s
@@ -39,7 +39,7 @@ BMP-1AM 是 BMP-1 改进而成。
 * 安全距离：0m
 {% endtab %}
 
-{% tab title="3UOR6 30毫米破片曳光弹" %}
+{% tab title="3UOR6 30 毫米破片曳光弹" %}
 * 子弹数量：150 x 1
 * 射击间隙：0.18s
 * 装填时间：11.28s
@@ -59,7 +59,7 @@ BMP-1AM 是 BMP-1 改进而成。
 * 安全距离：0m
 {% endtab %}
 
-{% tab title="40毫米烟雾抛射器" %}
+{% tab title="40 毫米烟雾抛射器" %}
 * 子弹数量：2 x 1
 * 射击间隙：1s
 * 装填时间：1s
@@ -75,3 +75,7 @@ BMP-1AM 是 BMP-1 改进而成。
 <figure><img src="../../../../.gitbook/assets/BMP1AM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/BMP1AM沙漠涂装.png" alt=""><figcaption></figcaption></figure>
+
+---
+
+> **注：** BMP-1AM 是 BMP-2 车体 + 30 炮塔的缝合体，除炮塔血量加强到 600 外，火力配置与 BTR-82A（30）完全相同；但车体仍有弹药架，可被坦克一发打穿，具体位置参考 BMP-2 篇。

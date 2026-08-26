@@ -23,7 +23,7 @@ layout:
 # 🇨🇳 Squad 帮助文档
 
 {% hint style="success" %}
-<mark style="color:green;">本站已采用</mark> [<mark style="color:green;">南赛CDN</mark>](https://345idc.cn) <mark style="color:green;">对中国大陆地区加速</mark>&#x20;
+<mark style="color:green;">本站已采用</mark> [<mark style="color:green;">南赛 CDN</mark>](https://345idc.cn) <mark style="color:green;">对中国大陆地区加速</mark>&#x20;
 
 其他地区将采用 **CloudFlare** 提供的加速服务
 {% endhint %}

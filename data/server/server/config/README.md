@@ -35,8 +35,8 @@ layout:
 * &#x20;**RANDOM** = 地图循环方式（ALWAYS, FIRST, NONE）
 * &#x20;**FIXEDMAXPLAYERS** = 最大玩家数量（可选，如没有则采用 [server.cfg](./#server.cfg) 中的数量）
 * &#x20;**FIXEDMAXTICKRATE** = 服务器刷新率【Tick】
-* &#x20;**Beaconport =** EOS链接端口
-* &#x20;**RconPort =** Rcon通讯端口
+* &#x20;**Beaconport =** EOS 链接端口
+* &#x20;**RconPort =** Rcon 通讯端口
 * &#x20;**-log** = 显示日志窗口
 
 可参考以下示例：
@@ -210,7 +210,7 @@ canseeadminchat                # 查看 管理员聊天/友军击杀/管理员�
 ### ExcludedLayers.cfg
 
 * 可以在此处设置服务器禁止游玩的图层，设置后服务器将不会允许这些图层运行
-* 此列表使用层ID名称，这与UI显示名称不同。
+* 此列表使用层 ID 名称，这与 UI 显示名称不同。
 * 当“MapRotationMode=LayerList”时 此图层设置的禁止图层才生效
 * 当使用“adminchangelayer”或“adminsetnextlayer”命令时，这个禁止图层才生效。
 
@@ -238,7 +238,7 @@ Tutorial_Infantry
 ### ExcludedLevels.cfg
 
 * 可以在此处设置不允许服务器运行的地图，设置后服务器将不会运行此地图。
-* 此列表使用层ID名称，这与UI显示名称不同。
+* 此列表使用层 ID 名称，这与 UI 显示名称不同。
 * 当“MapRotationMode=LevelList”时 此图层设置的禁止图层才生效
 
 ```
@@ -1035,7 +1035,7 @@ Yehorivka
 * 这是服务器规则文件，在此文件的内容将会在游戏内服务器规则显示。
 * 这非常适合显示服务器信息、简单规则或其他消息。但请注意，输入到此文件中的文本不会在游戏中换行，并且会溢出视图。
 
-以下列出了允许在 **MOTD.cfg** 中使用的HTML命令：
+以下列出了允许在 **MOTD.cfg** 中使用的 HTML 命令：
 
 ```
 <a>黄色字体</a>
@@ -1045,7 +1045,7 @@ Yehorivka
 ### **Rcon.cfg**
 
 * 如果您不想使用 **远程管理\[Rcon]**，请将密&#x7801;**（Password）**&#x8BBE;置为空。
-* 如果**IP**为 0.0.0.0，那么即为本机上的所有IP
+* 如果**IP**为 0.0.0.0，那么即为本机上的所有 IP
 
 ```
 // 远程管理[Rcon] IP
@@ -1089,7 +1089,7 @@ SecondsBeforeTimeoutCheck=120
 * 这是通用的服务器配置文件。每个变量都应该在自己的行上。
 * 此 wiki 将添加新内容。由于我们不会覆盖配置文件，因此如果您想更改默认值，则需要手动将它们添加到现有的服务器配置中。
 * 如果服务器名称的特殊字符在 **服务器列表** 中显示为 "?????"，解决方法：将特殊字符粘贴到文本编辑器，然后再复制到配置文件。示例：`ServerName="Test Server Λ"`
-* **AutoTkBanTime：**&#x6B64;功能为自带TK封禁系统，当一局超过限定TK数量后将被服务器封禁，<mark style="color:red;">并且管理员无法解除此封禁</mark>
+* **AutoTkBanTime：**&#x6B64;功能为自带 TK 封禁系统，当一局超过限定 TK 数量后将被服务器封禁，<mark style="color:red;">并且管理员无法解除此封禁</mark>
 
 ```
 // 在这里设置你的服务器名字

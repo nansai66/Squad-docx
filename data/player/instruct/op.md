@@ -12,7 +12,7 @@ RCON：允许
 
 返回：ID：0 | SteamID：…… | Name：stellar | team ID：1 | Squad ID：N/A | Is Leader：False | Role：……
 
-意味玩家ID为0，SteamID为……，玩家名称为stellar，阵营ID为1，没有小队，不是队长，当前阵营国家为……&#x20;
+意味玩家 ID 为 0，SteamID 为……，玩家名称为 stellar，阵营 ID 为 1，没有小队，不是队长，当前阵营国家为……&#x20;
 
 ## 查找小队信息
 
@@ -20,9 +20,9 @@ RCON：允许
 
 RCON：允许
 
-返回：ID：1 | Name：小队1 | Size：1 | Locked：False | Creator Name：stellar | Creator Steam ID：……
+返回：ID：1 | Name：小队 1 | Size：1 | Locked：False | Creator Name：stellar | Creator Steam ID：……
 
-意味1队，队伍名称是小队1，队内玩家一人，没有锁队，创造者名称stellar，创造者Steam ID为……&#x20;
+意味 1 队，队伍名称是小队 1，队内玩家一人，没有锁队，创造者名称 stellar，创造者 Steam ID 为……&#x20;
 
 ## 踢出玩家 <a href="#adminkick" id="adminkick"></a>
 
