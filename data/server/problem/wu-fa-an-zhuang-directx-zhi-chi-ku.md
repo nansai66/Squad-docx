@@ -1,5 +1,5 @@
 ---
-description: 安装DirectX时发生错误 解决教程
+description: 安装 DirectX 时发生错误 解决教程
 ---
 
 # 无法安装 DirectX 支持库

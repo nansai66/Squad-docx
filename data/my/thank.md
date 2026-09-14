@@ -7,7 +7,7 @@
 这个网站的成就离不开所有志愿成员的无私付出，在此由衷的感谢他们！
 
 * [糯米](https://wpa.qq.com/msgrd?v=3\&uin=510600087\&site=qq\&menu=yes\&jumpflag=1)
-* [桀氓AlbertWensley](https://steamcommunity.com/profiles/76561198868697161)
+* [桀氓 AlbertWensley](https://steamcommunity.com/profiles/76561198868697161)
 * [虾仁](https://steamcommunity.com/profiles/76561199402993315/)
 * [安阳废品](https://steamcommunity.com/profiles/76561198399184276/)
 * [十八岁青春二刺螈](https://steamcommunity.com/profiles/76561199166454477)

@@ -8,7 +8,7 @@
 
 ## **云端 SaaS 免部署优势**
 
-产品采用 SaaS 云端架构，彻底省去自建服务器、配置 PHP、MySQL 数据库等繁琐部署流程，打开浏览器访问 [https://manage.squadovo.cn/](https://link.wtturl.cn/?target=https%3A%2F%2Fmanage.squadovo.cn%2F\&scene=im\&aid=497858\&lang=zh) 登录就能直接操作；仅需在您本地的战术小队游戏服务器运行一款轻量级日志解析工具，即可实时同步全量游戏数据至云端面板，低成本、零运维门槛。
+产品采用 SaaS 云端架构，彻底省去自建服务器、配置 PHP、MySQL 数据库等繁琐部署流程，打开浏览器访问 [https://manage.squadovo.cn/](https://manage.squadovo.cn/) 登录就能直接操作；仅需在您本地的战术小队游戏服务器运行一款轻量级日志解析工具，即可实时同步全量游戏数据至云端面板，低成本、零运维门槛。
 
 ## AI 智能全场景管理
 

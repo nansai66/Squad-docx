@@ -8,7 +8,7 @@
 
 以下列举一些管理面板：
 
-* [SQSManager管理面板](sqsmanager.md)
+* [SQSManager 管理面板](sqsmanager.md)
 
 ## 运营面板
 

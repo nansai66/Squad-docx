@@ -1,5 +1,5 @@
 ---
-description: 本文档将教您如何安装在Steam创意工坊中的MOD
+description: 本文档将教您如何安装在 Steam 创意工坊中的 MOD
 ---
 
 # MOD 安装
@@ -16,18 +16,18 @@ description: 本文档将教您如何安装在Steam创意工坊中的MOD
 
 <figure><img src="../../.gitbook/assets/822ce02310897181aa4e8d244281c0ad.png" alt=""><figcaption></figcaption></figure>
 
-SET STEAMCMD 为您的SteamCMD所在位置
+SET STEAMCMD 为您的 SteamCMD 所在位置
 
 SET SRVPATH 为您的服务端所在位置
 
-SET MODPATH 为您的MOD文件夹所在位置（如果SET SRVPATH 正确 则无需更改）
+SET MODPATH 为您的 MOD 文件夹所在位置（如果 SET SRVPATH 正确 则无需更改）
 
-SET MODID1 为您需要安装的MOD ID
+SET MODID1 为您需要安装的 MOD ID
 
 ## MOD ID 获取教程
 
-我们在 [Steam 创意工坊](https://steamcommunity.com/app/393380/workshop/) 中 ，找到您要安装的MOD。
+我们在 [Steam 创意工坊](https://steamcommunity.com/app/393380/workshop/) 中 ，找到您要安装的 MOD。
 
-并打开该MOD详情页。查看超链接（?id=后即为MOD ID）
+并打开该 MOD 详情页。查看超链接（?id=后即为 MOD ID）
 
 <figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption><p>MOD ID 获取实例图</p></figcaption></figure>

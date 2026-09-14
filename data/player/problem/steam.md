@@ -4,7 +4,7 @@
 想当 Squad 服主？50 元/月起就能拿下入门款专属服务器！[南赛云](https://server.squadovo.cn/)是高性价比开服首选，低价不低质，让您轻松启动专属战局，低成本圆服主梦～
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/c39de5232e16cd30fe3fc3f63eb56d24_720.jpg" alt=""><figcaption><p>Steam提示离线，无法上线</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/c39de5232e16cd30fe3fc3f63eb56d24_720.jpg" alt=""><figcaption><p>Steam 提示离线，无法上线</p></figcaption></figure>
 
 ## 前言
 
@@ -12,11 +12,11 @@
 
 ## 解决
 
-### **更换DNS服务器** <a href="#geng-huan-dns-fu-wu-qi" id="geng-huan-dns-fu-wu-qi"></a>
+### **更换 DNS 服务器** <a href="#geng-huan-dns-fu-wu-qi" id="geng-huan-dns-fu-wu-qi"></a>
 
 此方法适用于因当地运营商 DNS 遭遇污染，导致无法正常获取 IP 地址的场景。
 
-<table><thead><tr><th>DNS服务器名称</th><th width="247">首选DNS</th><th>备用DNS</th></tr></thead><tbody><tr><td>114 DNS</td><td>114.114.114.114</td><td>114.114.115.115</td></tr><tr><td>谷歌 DNS</td><td>8.8.8.8</td><td>8.8.4.4</td></tr><tr><td>阿里Ali DNS</td><td>223.5.5.5</td><td>223.6.6.6</td></tr><tr><td>CloudFlare DNS</td><td>1.1.1.1</td><td>1.1.1.1</td></tr></tbody></table>
+<table><thead><tr><th>DNS 服务器名称</th><th width="247">首选 DNS</th><th>备用 DNS</th></tr></thead><tbody><tr><td>114 DNS</td><td>114.114.114.114</td><td>114.114.115.115</td></tr><tr><td>谷歌 DNS</td><td>8.8.8.8</td><td>8.8.4.4</td></tr><tr><td>阿里 Ali DNS</td><td>223.5.5.5</td><td>223.6.6.6</td></tr><tr><td>CloudFlare DNS</td><td>1.1.1.1</td><td>1.1.1.1</td></tr></tbody></table>
 
 <details>
 
@@ -24,11 +24,11 @@
 
 1.进入“网络和共享中心”：在桌面上右键单击电脑图标，选择“属性”打开属性窗口，在窗口左侧选择“更改适配器设置”，进入网络和共享中心。
 
-2.选择网络连接：在网络和共享中心，选择需要更改DNS服务器的网络连接，右键选择“属性”打开属性窗口。
+2.选择网络连接：在网络和共享中心，选择需要更改 DNS 服务器的网络连接，右键选择“属性”打开属性窗口。
 
-3.编辑网络属性：在网络属性窗口中，选择“Internet协议版本4（TCP/IPv4）”，点击“属性”按钮。
+3.编辑网络属性：在网络属性窗口中，选择“Internet 协议版本 4（TCP/IPv4）”，点击“属性”按钮。
 
-4.指定DNS服务器：在Internet协议版本4（TCP/IPv4）属性窗口中，“通常自动获取”改为“使用下列DNS服务器地址”，手动输入需要更改的DNS服务器地址，点击“确定”即可完成更改。如需输入备用DNS服务器，可在“备用DNS服务器”中输入备用服务器地址。
+4.指定 DNS 服务器：在 Internet 协议版本 4（TCP/IPv4）属性窗口中，“通常自动获取”改为“使用下列 DNS 服务器地址”，手动输入需要更改的 DNS 服务器地址，点击“确定”即可完成更改。如需输入备用 DNS 服务器，可在“备用 DNS 服务器”中输入备用服务器地址。
 
 </details>
 
@@ -36,7 +36,7 @@
 
 ### **指定连接服务器**
 
-此方法适用于 [更改DNS](steam.md#geng-huan-dns-fu-wu-qi) 后仍然无法上线的用户
+此方法适用于 [更改 DNS](steam.md#geng-huan-dns-fu-wu-qi) 后仍然无法上线的用户
 
 在此之前，您需要先下载一个 [**UsbEAm Hosts Editor**](https://pan.nansai.cc/s/EZGUA) 来完成后续操作
 
