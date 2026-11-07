@@ -2,10 +2,10 @@
 
 ## 下载
 
-当前稳定发行版本：**V1.7.0**
+当前稳定发行版本：**V1.7.1**
 
--   [SquadLogParser\_windows \_amd64\_V1.7.0.zip](https://manage.squadovo.cn/download/SquadLogParser_windows_amd64_V1.7.0.zip)
--   [SquadLogParser\_linux \_amd64\_V1.7.0.zip](https://manage.squadovo.cn/download/SquadLogParser_linux_amd64_V1.7.0.zip)
+-   [SquadLogParser\_windows \_amd64\_V1.7.1.zip](http://manage.squadovo.cn/download/SquadLogParser_windows_amd64_V1.7.1.zip)
+-   [SquadLogParser\_linux \_amd64\_V1.7.1.zip](http://manage.squadovo.cn/download/SquadLogParser_linux_amd64_V1.7.1.zip)
 
 ## 安装
 
